@@ -1,9 +1,9 @@
 export type Status = 'verified'|'unavailable'|'not_collected'|'investigating'|'failed'|'not_applicable'|'pending';
-export type Metric = {value:number|null;status:Status;source?:string;kind?:'official'|'calculated';reason?:string};
+export type Metric = {value:number|null;status:Status;source?:string;kind?:'official'|'calculated';reason?:string;note?:string;basis?:'unweighted';contextSource?:string};
 export type Group = Record<string,Metric>;
-export type RecordData = {id:string;university:string;faculty:string;department:string;selection:string;year:number;common:Group;individual:Group;total:Group;admissions:Group;subjects?:{common:string[];individual:string[]}};
-export type Source = {id:string;university:string;title:string;url:string;page:number;retrievedAt:string;sha256:string;status:string;verifiedAt?:string;reviewer?:string};
-export type University = {id:string;name:string;kana:string;short:string;region:string;officialUrl:string;resultUrl:string;note:string};
+export type RecordData = {id:string;university:string;faculty:string;department:string;selection:string;year:number;common:Group;individual:Group;total:Group;admissions:Group;note?:string;subjects?:{common:string[];individual:string[]}};
+export type Source = {id:string;university:string;title:string;url:string;page:number;retrievedAt:string;sha256:string;status:string;verifiedAt?:string;reviewer?:string;format?:'pdf'|'html'};
+export type University = {id:string;name:string;kana:string;short:string;region:string;officialUrl:string;resultUrl:string;note:string;type?:string;defaultTab?:'common'|'total'|'individual'};
 export type Dataset = {version:number;updatedAt:string;universities:University[];sources:Source[];records:RecordData[];coverageNote:string};
 export const years = [2024,2025,2026];
 export const missing:Metric = {value:null,status:'not_collected',reason:'公式資料との照合が完了していません。'};
