@@ -1,0 +1,32 @@
+name: Collect official data for review
+on:
+  schedule:
+    - cron: '17 22 1 * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: admissions-collection
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - run: python scripts/collect.py
+      - name: Retain review candidates and fetch error log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: admissions-review
+          path: |
+            .cache/candidate.json
+            .cache/last-error.json
+          retention-days: 7
+# The collector never writes public/data or approves a record. Existing published
+# data remains usable on fetch/parse errors. Review and export locally, then push.
