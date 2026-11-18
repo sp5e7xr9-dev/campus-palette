@@ -5,7 +5,7 @@ from pathlib import Path
 from core import ROOT,validate
 UA='CampusPalette/1.0 (educational admissions facts; low-frequency single-request collector)'
 def now():return datetime.datetime.now(datetime.timezone.utc).isoformat()
-def fetch(url,allowed_host,cache):
+def fetch(url,allowed_host,cache,format='pdf'):
  if urllib.parse.urlparse(url).scheme!='https' or urllib.parse.urlparse(url).hostname!=allowed_host:raise ValueError('unapproved origin')
  class Guard(urllib.request.HTTPRedirectHandler):
   def redirect_request(self,req,fp,code,msg,headers,newurl):
@@ -33,21 +33,25 @@ def fetch(url,allowed_host,cache):
  rp=cache[allowed_host]
  if not rp.can_fetch(UA,url):raise PermissionError('robots.txt disallows collection')
  time.sleep(max(2,rp.crawl_delay(UA) or 0));b=read(url)
- if not b.startswith(b'%PDF-'):raise ValueError('not a PDF; possibly access restricted')
+ if format=='pdf' and not b.startswith(b'%PDF-'):raise ValueError('not a PDF; possibly access restricted')
+ if format=='html' and b'<html' not in b.lower():raise ValueError('not HTML; possibly access restricted')
  return b
 
 def collect(cache_path,offline=False):
  config=json.loads((ROOT/'scripts/universities.json').read_text());cache_path.mkdir(parents=True,exist_ok=True)
- data=dict(version=1,updatedAt=now(),universities=[{k:v for k,v in u.items() if k not in ['documents','parser','policyUrl']} for u in config],sources=[],records=[],coverageNote='新潟大学の入試データブック（得点・人数）と埼玉大学の一般選抜結果（総合点・人数）を収録。科目別配点・受験者平均点、埼玉大学の特別選抜など未照合の資料は未収録です。未収録・非公表の値は推測せず「入手不可」と表示します。')
+ data=dict(version=1,updatedAt=now(),universities=[{k:v for k,v in u.items() if k not in ['documents','parser','parserByYear','policyUrl','format','formatByKey','allowedHosts']} for u in config],sources=[],records=[],coverageNote='2024〜2026年度を対象に、大学公式資料と照合した募集単位のみ収録しています。大学ごとの収録年度・範囲は各カードと注記をご確認ください。未収録・非公表の値は推測せず「入手不可」と表示します。')
  robots={}
  for u in config:
-  if u['parser'] not in ['niigata','saitama']:raise ValueError('register a reviewed parser before enabling a university')
+  allowed_parsers=['niigata','saitama','hirosaki','miyagi','fukushima','fukushima2026','tmu','toyaku','iwate','yamagata','obihiro','utsunomiya','tohoku','akita','chiba']
+  if u['parser'] not in allowed_parsers:raise ValueError('register a reviewed parser before enabling a university')
   for yr,docs in u['documents'].items():
    year=int(yr);paths={};meta={}
    for key,url in docs.items():
-    name=f"{u['id']}-{year}-{key}.pdf";path=cache_path/name
+    fmt=u.get('formatByKey',{}).get(key,u.get('format','pdf'));name=f"{u['id']}-{year}-{key}.{fmt}";path=cache_path/name
     if not offline:
-     b=fetch(url,urllib.parse.urlparse(u['officialUrl']).hostname,robots);path.write_bytes(b)
+     host=urllib.parse.urlparse(url).hostname
+     if host not in u.get('allowedHosts',[urllib.parse.urlparse(u['officialUrl']).hostname]):raise ValueError('unapproved source host')
+     b=fetch(url,host,robots,fmt);path.write_bytes(b)
      (cache_path/(name+'.meta.json')).write_text(json.dumps({'retrievedAt':now(),'url':url}))
     if not path.exists():raise FileNotFoundError(path)
     info=json.loads((cache_path/(name+'.meta.json')).read_text());assert info['url']==url
@@ -55,10 +59,12 @@ def collect(cache_path,offline=False):
    def source(key,page):
     sid=f"{u['id']}-{year}-{key}-p{page}"
     if not any(s['id']==sid for s in data['sources']):
-     title=f"新潟大学 データブック{year+1}（{year}年度入試結果）" if key=='book' else f"埼玉大学 {year}年度 一般選抜{'合格者の最低点・平均点' if key=='scores' else '実施状況'}"
-     data['sources'].append(dict(id=sid,university=u['id'],year=year,title=title,page=page,status='pending',**meta[key]))
+     title=f"新潟大学 データブック{year+1}（{year}年度入試結果）" if key=='book' else f"{u['name']} {year}年度 入試結果（{key}）"
+     data['sources'].append(dict(id=sid,university=u['id'],year=year,title=title,page=page,format=u.get('formatByKey',{}).get(key,u.get('format','pdf')),status='pending',**meta[key]))
     return sid
-   data['records']+=importlib.import_module('parsers.'+u['parser']).parse(paths,year,source)
+   parser=u.get('parserByYear',{}).get(str(year),u['parser'])
+   if parser not in allowed_parsers:raise ValueError('unreviewed year parser')
+   data['records']+=importlib.import_module('parsers.'+parser).parse(paths,year,source)
  validate(data)
  return data
 if __name__=='__main__':

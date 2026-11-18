@@ -33,8 +33,8 @@ def validate(data,public=False):
   assert r['id'] not in ids,'duplicate record';ids.add(r['id'])
   assert r['university'] in unis and r['year'] in [2024,2025,2026]
   assert r['faculty'] and r['department'] and r['selection']
-  assert r['department'] not in ['合計','計'] and r['faculty'].endswith('学部')
-  if r['department'].startswith('工学科'):assert r['faculty']=='工学部'
+  assert r['department'] not in ['合計','計'] and r['faculty'].endswith(('学部','学群','学類','学環'))
+  if r['university']=='niigata' and r['department'].startswith('工学科'):assert r['faculty']=='工学部'
   if r['university']=='niigata' and r['department'].startswith(('医学科','保健学科')):assert r['faculty']=='医学部'
   for section in ['common','individual','total','admissions']:
    g=r[section]
@@ -45,6 +45,9 @@ def validate(data,public=False):
     assert m['status']==('verified' if public else 'pending')
     s=sources[m['source']];assert s['university']==r['university'] and s['year']==r['year']
     assert s['sha256'] and s['page']>=1 and s['url'].startswith('https://')
+    if m.get('contextSource'):
+     c=sources[m['contextSource']];assert c['university']==r['university'] and c['year']==r['year'] and c['sha256']
+     if public:assert c['status']=='verified'
     if public:assert s['status']=='verified'
    if section!='admissions':
     vals={k:m['value'] for k,m in g.items()}

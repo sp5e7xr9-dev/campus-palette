@@ -1729,6 +1729,2796 @@
       "digest": "c7b5a804696ed3cdaafde2829c4a5008f3428f35847fe7f0da3f5ae4a077990d",
       "reviewer": "初期取込：表構造・年度・得点率・別エンジンの数値照合。原本画像の代表照合を実施。",
       "at": "2026-11-18T04:05:36.219925+00:00"
+    },
+    "f532fb37349898eff48f": {
+      "digest": "c46a33369fe4535d58343ffc7f08273e49c1c124e0515560c039f2c3f299368d",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.889878+00:00"
+    },
+    "328c3c5769b1bc082c83": {
+      "digest": "121bebb407ddb1a5448b3ae3db1c317dc5351cfdf1b9af84e2981bee44d8a95c",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.889936+00:00"
+    },
+    "8dbd5d8eb2318f2145da": {
+      "digest": "ed8b69370a7a3324cf6790ef98d9714e19156007ffcc78fb08f5f5ed10765e43",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.889982+00:00"
+    },
+    "997ed27e733ab0c13dde": {
+      "digest": "4bf813590cee416055bf73fece03e6ead95a2a6b933f32aed8327d714ecb1372",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.890025+00:00"
+    },
+    "768fb2f6c163bb8b4be0": {
+      "digest": "340517a9a19b51b96bd1d1cda8ca03ca1df9f4b8a693dc98337a60c3ebf7cb4c",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.890067+00:00"
+    },
+    "15b95d9f037e9879434c": {
+      "digest": "7b10956b3ec81a75a8082d63c3bb924fdcc3c1620391fcc2237a942a18fb05b3",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.890112+00:00"
+    },
+    "351b208fd17ae5790fd6": {
+      "digest": "65409927ed2a2568122d525ab51137858e553fd63bbff009cd752640fac9ebcc",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.890154+00:00"
+    },
+    "bed915fafb69245003aa": {
+      "digest": "401b4d32a93e9768ec9f77586ef67bcabb87f2df6cd9f3e5f90faf3f28e9923d",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.890199+00:00"
+    },
+    "28fb9d224509b187dd90": {
+      "digest": "871e5d672ce15b740691fea6ec4613a0283eae0c26a592ccec162ce2e0a4cd03",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.890243+00:00"
+    },
+    "4007b16fe3864adc675e": {
+      "digest": "97b103ff543014e9eb75247753d5abb286f803b945d85c370b35862db312cd74",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.890297+00:00"
+    },
+    "b2e1edfc59a0f9335c88": {
+      "digest": "05bd23165bbd3893a840f5c914f7f4bc45b7aad0c4672ff89f685c7118d781b2",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.890342+00:00"
+    },
+    "8b4d64fbcff63f9c0c31": {
+      "digest": "32b1a0342cbdf6f89424917081e6e5f834f743b303b18ed7e730f51c77b584b1",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.890388+00:00"
+    },
+    "360c0ba019466ec33cc4": {
+      "digest": "d396db7ea67a26227b90f4c9f2bfe3c93fde54cbfa0069c68089c7c44b56dcc4",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.890431+00:00"
+    },
+    "c25f0c63324d0a32cf10": {
+      "digest": "2f41316471228e16881c87cd47d87656e058ac413ced09a27b1f7de2f1b58fb5",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.890475+00:00"
+    },
+    "6f035d72fb37916c1d92": {
+      "digest": "a0b9d7ea1dd6a50c822f7902c392933718f9888132dc9faea4b5fef2d4f45d0c",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.890517+00:00"
+    },
+    "9bbf7a16af813e517e1b": {
+      "digest": "a2840a80b9da3ee4407e496c65022fcf2141d2f5c4bb2feac01dabdff0f63c88",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.890560+00:00"
+    },
+    "c5a37d061066f45d223d": {
+      "digest": "acf88938061ddb7e1de915a3467ab946ea40e8426910e8c41d9b41e2c7cd0c04",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.890602+00:00"
+    },
+    "03215fadcd2c2a646dbc": {
+      "digest": "0d51b4944693652dc79cf5dea7cb3e409b0355a345fe588a3aa0e44528db005a",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.890645+00:00"
+    },
+    "d6c1802c871620a32d0f": {
+      "digest": "0130f1485c045d8d7b08429f00a36218192bd5eb98eb5f3661ce7abac94bd0ba",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.890685+00:00"
+    },
+    "cf780f89807c9e9d403d": {
+      "digest": "f62c09c2dc69cbb9d0ab846603a163828d31b424102a535c093b09572f9c38d5",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.890747+00:00"
+    },
+    "5d8dcb92992d8aab14af": {
+      "digest": "eb56f80a74afce5d492ab1cfbc7686aabd6b478f2f8588cdab4e2b3ed535c659",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.890792+00:00"
+    },
+    "4bf2af6f819059f00d01": {
+      "digest": "ebcdfbbdd53b1c3168829922d0fec016e0b8e8bbabe994d66ef1c9d721b70339",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.890835+00:00"
+    },
+    "75427929c3681aa0ce04": {
+      "digest": "46d39758cefd8dd3dbfe138be7142b6d4c4f48c69cabc4da874de9d791d0698e",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.891036+00:00"
+    },
+    "b6ea3fc72b060a40b9a3": {
+      "digest": "2f4bcb880e59379c4e2640d3901acfd8d4e2be90d2714a5ef62270dd280d61ee",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.891095+00:00"
+    },
+    "edec595a8ac168ec7147": {
+      "digest": "080140d38580dffd261bd6aec88f962afab8ba08b7bdae0f57e147bd3e8cf828",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.891140+00:00"
+    },
+    "5a66ab0843025e6976e5": {
+      "digest": "73e16f7d2584acae67ac89f8e5999327edf611448edd488b407f53f4e9a66823",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.891183+00:00"
+    },
+    "9d354e63610a18ba15ad": {
+      "digest": "881bc4c2469bec4c526f129df65bbdf212dd73950b6836064651382a2317ccfd",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.891225+00:00"
+    },
+    "c9dc11120887a2ee271c": {
+      "digest": "189a22539a5f1261d68cc2ed40d5ae3b6654483b1c19f4672a25a43047692930",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.891266+00:00"
+    },
+    "fc0f54b920008359d09b": {
+      "digest": "690746926b0d4f4a4f24096630e8e1572e7ff149620c3cc2f670cf4031053e58",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.891309+00:00"
+    },
+    "9e3e4456c2e8fea0378c": {
+      "digest": "6de0c782bcaec107552dde6bbaacd10aa8625ec4a2d9dcce0cbe4bb22dcb5b13",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.891400+00:00"
+    },
+    "018f15cad4d308061e5d": {
+      "digest": "c7a785f63fa7f1b2e2bba6961b88593c89ae7f84c9f6affe06021e145525a404",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.891445+00:00"
+    },
+    "53140f18a2718f1ff532": {
+      "digest": "b5cf9c36de8f04bf48696b3549914d09ef47b47d3edbf5f68833209f45ffe5f4",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.891486+00:00"
+    },
+    "713e0a6594262724c442": {
+      "digest": "38c581ed63a3c5b5152a1b047c8f1c9f629cfb52750f055b79f3204ff6180665",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.891528+00:00"
+    },
+    "232c11b1ea94fcc13c65": {
+      "digest": "5a75e1e398df5eb069135f316d57f21e8e4b5f25e25aea76d79f295f2033f8de",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.891570+00:00"
+    },
+    "11c0645ed6e62a1b1dc4": {
+      "digest": "28c2d28cc3de1e6ce0a9e8757debed47ee794a4b138c0486af8ff9506bcd0257",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.891611+00:00"
+    },
+    "2f811366bf1687b6cf7f": {
+      "digest": "a1f4a9bad43b9376c20b705b07cac682d0cae0d5e1dc3f2a890021b55b957017",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.891651+00:00"
+    },
+    "173a3c6758816ae8c04c": {
+      "digest": "d2d2eb5145329f26e052df6b597cb44de8078c0f0678ff2e3fba70fc8d608f92",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.891696+00:00"
+    },
+    "ab1dc4e314ff0a890d3a": {
+      "digest": "6bd37a336d8dbc7db19688c0c6abdf1643da54a34ed06415fee5818cfaa6c468",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.891763+00:00"
+    },
+    "1d29d1f3de3d6745d66b": {
+      "digest": "5b24765354e1d794de34255d9a6df00d2e865397ecc0c2b5b9986979b2daa17d",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.891808+00:00"
+    },
+    "066d3882112ca113f123": {
+      "digest": "8078e15a8b5af376ea51898544a4ce50a04780ea54a3995f49594f2e3d32a552",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.891851+00:00"
+    },
+    "665a987bdeeb2389f1c8": {
+      "digest": "a6d78928b739eae5935b55130307a609c1d3ee3d595e78661e1cf21ceebb170b",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.891894+00:00"
+    },
+    "a0b494d95e69346cb2cb": {
+      "digest": "3fa36003181b89cf5acf2f6a791770fa9eb5ed4c3d0d0d3fcbf33fe66d922ae9",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.891992+00:00"
+    },
+    "f91859ecdc229e1dffe7": {
+      "digest": "a3a9492d4773526feaa71d4de85f5112997dc840b71e013ea5398a866babeaf0",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.892040+00:00"
+    },
+    "8c466df823f3602a7930": {
+      "digest": "a565a058fee6eb7ec1727e93147a8e15f7853811ec84f21f47c79422d096fe5c",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.892080+00:00"
+    },
+    "c9e94809db5bba32ae19": {
+      "digest": "70e5735079c7fd775f28cfdb5ca152e51154040f08fdd320a2b8347b9e0b3719",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.892122+00:00"
+    },
+    "93803e11b2233db7bcea": {
+      "digest": "20f7bf4369f2fb5ee00319f61ad091d1cd52056b5145b1594eb8076890843362",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.892184+00:00"
+    },
+    "f0d7e87c66e5c0994b4a": {
+      "digest": "b9ea4f25cc22f915dd98e47cfe38966591ad02667aa2ceafb3024a24cd215577",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.892229+00:00"
+    },
+    "6a076fa857a90f7de355": {
+      "digest": "d5c8ef0006fc51fb711a2f8a4f804f9a9fdd739d374b7a406e6a47c40d6c55cd",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.892270+00:00"
+    },
+    "fb2638b9b1e60f9a0c65": {
+      "digest": "0221556c7c2b0a48d806b5acd9c5b6dccf05326b6e7182e2a367ea344a1fa3ed",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.892316+00:00"
+    },
+    "d61bd7477c7bfd1bd8ba": {
+      "digest": "c94210d45cc1b5915f2488adcae5bfa3315ca88176ea3331c55aba2701b9da00",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.892358+00:00"
+    },
+    "e90e32560b6807d0d76c": {
+      "digest": "79eff03b706653e0d5d3a261342f0cdd8edac3f3322a6e2890f10e65e718aefa",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.892399+00:00"
+    },
+    "c53b3397c14205d63084": {
+      "digest": "ad3c4000b0d8ff3b624a9754fd3a0fddd2d2437f10bfe947e6e7e56a6428e12c",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.892479+00:00"
+    },
+    "3afd34dec162a0e8e535": {
+      "digest": "7f4f7a80b8b7a63bf48c2425466fafd26fc63113f33b3c44cb2a800fb7ba2c41",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.892520+00:00"
+    },
+    "ca18caffa382a90e382c": {
+      "digest": "39b463c04e578163820434edf18108bc46870f7afb4716de864c5d9e6046d861",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.892559+00:00"
+    },
+    "de23c137df64d81460b7": {
+      "digest": "83230bc641bcf0eb2fd5f798c2f4d23c857516b7a639f049e5224a51adebfcff",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.892601+00:00"
+    },
+    "039699170203d209a9d3": {
+      "digest": "781141efb5436f170ff0dc7ff71efb3d45ac38bf537a29b93809d2306c1572c6",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.892642+00:00"
+    },
+    "3f97a35705f145427908": {
+      "digest": "69605be73dd8733532d08c365d6c8417fe287c908f72a04ca3c0baf9f7bd2a34",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.892685+00:00"
+    },
+    "5d74787d8db61db73dbd": {
+      "digest": "414906a187d892b69ab17c5569ae81e575d6e65927bd5874dfe65810c5ec6859",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.892740+00:00"
+    },
+    "9f5fa4c826c8df4742ae": {
+      "digest": "28a5f6dd0b1a1aec27e7b65328320177f29d81afef8cd667b2df50c10dffe1a1",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.892781+00:00"
+    },
+    "e6d029361b67b25ce371": {
+      "digest": "9b1f544cf7bec5968596e4a8a93695d97490e2eef33c475d9b3ca5414a4a88fc",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.892820+00:00"
+    },
+    "dea4744bf15f4b0f0952": {
+      "digest": "5572dc6e3e970279967a5bf797eb4c72d0be3a89a223900f33c2fb86a5ff48c9",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.892859+00:00"
+    },
+    "7b58768ff9ccb36b69d5": {
+      "digest": "1fc2565f91e88598fcb49ac4500a9166fc7e1d8f0834f42af385ba5417e8590c",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.892899+00:00"
+    },
+    "d89a194260a6377f47cc": {
+      "digest": "41b491eb0f237c51772e0598157477a78db37d4a0b3d0c475d5feadb78dab7a6",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.892994+00:00"
+    },
+    "69f318cdf2f2e5c48bc3": {
+      "digest": "532de41aa46198ac9f0f14cf86ccb65dadcbc76f2333d6a282beb661bb8834e7",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.893034+00:00"
+    },
+    "0a3b091d31dce33eeb0f": {
+      "digest": "eb71bb3465c455f38a75021e6e7030ecf7d9ddb1405bebe2f087bf7248d4bcb5",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.893076+00:00"
+    },
+    "3a6bf5713d1586058531": {
+      "digest": "4f3119503cd6e497c38b42ea01dd8f719dbde7f38ea54aab88f1e4ec51581c11",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.893114+00:00"
+    },
+    "bdbd052fa7b0752dbcd7": {
+      "digest": "0f54ebd8adbdf272aca149225fb25ff92b00f054ff69c3c2fb95408a02c5afc7",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.893153+00:00"
+    },
+    "0cd741d788f20431aa53": {
+      "digest": "0385c5a66e1d4644880ae061550dcaa320da3e3dcaa5f6fddf927626c07cfd75",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.893192+00:00"
+    },
+    "6ff6c4c3007b15605ff4": {
+      "digest": "26d5d617165bfac5c8706ab76c6af0646df8aff1e5ed4f448b14ea02eaea0223",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.893230+00:00"
+    },
+    "eb8f865dd2350fa32d08": {
+      "digest": "9fbd91e195b6b6c03dcc783b8df6b724433f8f27712686ab4fe10916065bff47",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.893269+00:00"
+    },
+    "05f3dbc4db37d75ec36e": {
+      "digest": "d4b59fec74dcf3f35049e400807d4688591c5e0db9e88a6626c5c59f6fe0c078",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.893308+00:00"
+    },
+    "0fbe4fb9378f01485057": {
+      "digest": "a289f7b0569bd7e8f1d906cec90e7961efbe02f22337cb3e4035f4ed3a217471",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.893346+00:00"
+    },
+    "6ded850d0e67c66f12f4": {
+      "digest": "315edcc4a5056759a90be6de629556299d7e0bf3bd026f78521dbcd53d6eeaa6",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.893386+00:00"
+    },
+    "d6c7a5e46cb060d2f875": {
+      "digest": "c88aa6fcf727fbab31348385e593900eb10ee000cb42a93780b38722ffd41bc4",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.893425+00:00"
+    },
+    "7bc505d9d908a0784ff1": {
+      "digest": "8909e9e7f74fb5a919bd983a3be7687e6c81cfc2a8f93d7b0668ecee7d3ba0f2",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.893463+00:00"
+    },
+    "d41f3eb26f109bfaeec5": {
+      "digest": "1b8e9ae4d347f00fdc5b9d9319c88c5dea6a22180655ef5268d472560a1c737a",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.893501+00:00"
+    },
+    "7e17bb759556a01d2017": {
+      "digest": "b52c62067f5b8b22131c10b6bf3aa232f59bf25d16f31127a8350897b535e58c",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.893538+00:00"
+    },
+    "886c04156f7bb99d1de6": {
+      "digest": "b94634da44587c0c7b81f8ad4776bb344661d32bdfefbc3fdcc68d6ec3e96b96",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.893576+00:00"
+    },
+    "c1abd3154d0472f39862": {
+      "digest": "c0b317d479c0bc2c07a3dd9588e63fbbb7a1c066d419b6cadaebebf03e9dc3c6",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.893615+00:00"
+    },
+    "a7085b8a3653e9f82ce1": {
+      "digest": "c2db9ab343d2813c47364981a9948257b85b6804ad5f61bfdc41213568d14c05",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.893653+00:00"
+    },
+    "d05cd7b432b794d25178": {
+      "digest": "c4e8a20fb2628c1ff8270f6da0d6316de1589f16c531027ad9e232e1bd1763bd",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.893691+00:00"
+    },
+    "868075b4c49b93df4d22": {
+      "digest": "34834594a26c19a2666a2264fb1bdface3e92ba118c4e4c322a0a45e91724c20",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.893747+00:00"
+    },
+    "1c08f1ff45d21d28d1dd": {
+      "digest": "1eedce4d386ee1d2eafe7cfc1be47e0b2c98345fca2953be7f846afb6c2a8987",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.893789+00:00"
+    },
+    "1c79ad16d63fbeef5b08": {
+      "digest": "18afe9de8dd172209ca242ef6bb5a46d8cafca156c1c443c7db43058c07a9bcc",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.893828+00:00"
+    },
+    "d4753d973c22d8515010": {
+      "digest": "a7ca6cec96ab450baa369a46fdf49ed59a5ba0b8f9ce9c1f3facb6def47184e2",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.893866+00:00"
+    },
+    "dca49faf7a2dde0a1f27": {
+      "digest": "45278085cb316b6546ef1e17a28777b0fe0046e509686723fb542e81ee96d2c5",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.893905+00:00"
+    },
+    "0a25ee4992030626fad6": {
+      "digest": "f7f2d480035c96213559d9a9bb89683fbece49a1b6a3bb50c27497176991590d",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.893942+00:00"
+    },
+    "7b19f639a914e8a50a54": {
+      "digest": "83f50c8f68fefc57e783142ce485dabc723bbe8c7ce7beddc3496597068f3c20",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.893980+00:00"
+    },
+    "309c21c97946bd681aaa": {
+      "digest": "516c5cef6ebe796778c31cf98025c07df16b887722cd7fc882472946442d4630",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.894068+00:00"
+    },
+    "7d9bbc05a06a4009e9ff": {
+      "digest": "0b5d3db91e68314b7c62f3c7a7c72cf1d6ba604b7cadb23107061b862b6afd9f",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.894107+00:00"
+    },
+    "7b388137fbf065fda39b": {
+      "digest": "76396d43fccc39a23c863966a746a4586e5f9176ac30994ace871a95a3c10976",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.894147+00:00"
+    },
+    "6997e278b84313cc1b34": {
+      "digest": "a83d39f72408ee730a5039fce7ff901da9dfd8e66786956514629466d685f20d",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.894185+00:00"
+    },
+    "5e3864fc3b186285090f": {
+      "digest": "11c32d9bc98c8085f6b6211f88e8f74c2e448c3e7255cacc9b361c482ad10fee",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.894226+00:00"
+    },
+    "f75d09325231232c6198": {
+      "digest": "6a22b609f91ed16dca777d1e12d69540aa040135d2e0ccf33129048e879a9354",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.894266+00:00"
+    },
+    "adae7a935b1cf7e9d7ff": {
+      "digest": "01772da5529dc13a0f98b5806cf9c417f872bbd4b571995e1db8fec087e1d132",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.894303+00:00"
+    },
+    "1badcd055718d9df3b5f": {
+      "digest": "8e264c5ec891af6d02c8df4b64db26b272fd6f3af1fef73ed4906b1a9aa85a99",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.894342+00:00"
+    },
+    "4bd2ab06c33b7c003f27": {
+      "digest": "fa79211d0349b1bc09e7809148c6833b2e41157f76cee36f2161ba7fb535ed1b",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.894383+00:00"
+    },
+    "d421d6ca2f0643cc0285": {
+      "digest": "de57d2c7957ebb35f3709ff637f849735506382fbc6c9dd4ab5eeaf3f62eb83a",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.894423+00:00"
+    },
+    "e535d2d8dea70dfb1b87": {
+      "digest": "a7f1ed63c92c818f29067a0fa52439c2ff1a771d6d4916adb034f53a19d4ad9d",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.894460+00:00"
+    },
+    "bb60df0cc70113521520": {
+      "digest": "e21eeb48343ff601ad6f510131f1cb5f2487d1cb0063a6bb9f8308a25da1bbe0",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.894498+00:00"
+    },
+    "fd0774dff0dba5999746": {
+      "digest": "8888f86a33646962eab40da779dbb63d2a20398972045fc291133e2b18265304",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.894535+00:00"
+    },
+    "4246ac3127b25486ae39": {
+      "digest": "ac14bcfb709035fb337dc22bae60f398f7c086f3493399e9cd95cb85aebb4188",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.894573+00:00"
+    },
+    "bc96a4523ecd7a9c78bf": {
+      "digest": "cce7e1418dbe21779ed94b01f0c6a72cdff16cea9df95f88a6f22100a29625ae",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.894613+00:00"
+    },
+    "23cd1583667bd7ded637": {
+      "digest": "06c1293eba8e064f5cf5d38c371a01beaf99f36421607cdab00f53231e09c8d7",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.894654+00:00"
+    },
+    "fd25368027c8a572c055": {
+      "digest": "776727a659371d4610f8d218d105c3e22c48acd13a971668a840b1fa4b86e597",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.894693+00:00"
+    },
+    "4289b031a23b8c5dbc1d": {
+      "digest": "b69e691d5484ed6f19d8b83620bf7758212a19e70b17627641e67bdac40f9a69",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.894749+00:00"
+    },
+    "3950d202d16ba8d9cdf0": {
+      "digest": "e35a53b460c45b0f9c55f49b241363201fc2b1d75ffd0ba677fa8b62679d1682",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.894790+00:00"
+    },
+    "8f01b413282be024f0b7": {
+      "digest": "002e64aafb2c4fbaa5fdb17a78bdbe687f8ff0042519ba575dc88f608b6c1861",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.894829+00:00"
+    },
+    "4829601b08f0e35c7e05": {
+      "digest": "d99cd67b119bed43c4a2782bcabb12003973e7db9f5846a3267757cae624b6d4",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.894866+00:00"
+    },
+    "6bf77f1e6ee08722f46d": {
+      "digest": "950c9ed18facad71a64d99d0dad1dedb6224aaa96508c6dcb8ef246503e59ce4",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.894904+00:00"
+    },
+    "5141faa5c9dd8a95ab52": {
+      "digest": "481165dd1a3c5315e8cd24c05af64c34993f2cc16f7f78704e6c7d7f6a9e9905",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.894943+00:00"
+    },
+    "0da89ca435b2f87d286f": {
+      "digest": "c1b21bd3b8d016381604dd79a02d751f2ca51e32bf053c36f2a3b823a0746759",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.895019+00:00"
+    },
+    "ebd2c378a31f15ce7772": {
+      "digest": "a499dc35747a603abb9079d62f6525109deea6bf6dbfa2ab4362e03583e31940",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.895079+00:00"
+    },
+    "54cd825574d2b6c0f997": {
+      "digest": "4ca841f5d9f0d0d1530fdd518188473699ddc7d0143ffc5c9837363628bcac23",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.895125+00:00"
+    },
+    "e757ffe0ee38803e4f14": {
+      "digest": "f28082262cbd4a44abaaddc6033c9ba2bc0d62376b842884a21b8b8d54dfb9ae",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.895169+00:00"
+    },
+    "c3c155d033938c756618": {
+      "digest": "4e9b67d60a4d60336a1887ed54b00e949ac8755a949882a4a096bb1bd72e93f7",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.895214+00:00"
+    },
+    "02b001f17277ddc395aa": {
+      "digest": "d089a7d5e7bbf22b07e10022d9a78bab82f3f8a165c485568b645a3e209f3cfc",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.895257+00:00"
+    },
+    "16dc502710ff26b0803f": {
+      "digest": "4aa05356c87657d4512e58c1817637a0e152cd9da6637a5fdf7a36bb8843bc25",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.895303+00:00"
+    },
+    "2c98656161f867f40784": {
+      "digest": "3520be04aa63f7b652f320aec27a437e51a8bc0dfcab2869bd49c534d1890a44",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.895347+00:00"
+    },
+    "2346ed21894dd9450050": {
+      "digest": "a9ed488f6c5b363b84ee6a6be7c92cefce13e19836cad02d4c87123c218c0805",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.895391+00:00"
+    },
+    "24f35ff7dfca4ee9cdbc": {
+      "digest": "81f0f624ed6b89531414699c2fa5facfebd9ccd032113da3b54ef7698795e84c",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.895436+00:00"
+    },
+    "df699a5f7b5937b47ea7": {
+      "digest": "c700e5af594eef0089a300fa0487579b009c27b601c153507a4da4564a5cd752",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.895479+00:00"
+    },
+    "a38bf18033f568b6df45": {
+      "digest": "e37ecd3df1877e45fd0052ce37458c8c967baf267807afb9e6cc9f183114e3a0",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.895521+00:00"
+    },
+    "06097aa5822f78f08e20": {
+      "digest": "5a2d7dc3f91d63db2d844703b26ae3170f46ce7de6fcb2ccd53f65b4a2528bdf",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.895566+00:00"
+    },
+    "de3216f72b764e8febb4": {
+      "digest": "1a550286fd057972164b4d0b84621f2400e7812c0b8a9bdc15f3d83a15b9463e",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.895608+00:00"
+    },
+    "120719e67d9547b8403c": {
+      "digest": "b29602b9ae74d1a9b3d59f57dc676b488379dc00dd05476b0afcdd30b84ba0a8",
+      "reviewer": "Codex: original PDF/HTML table extraction, merged-label and score-type review; representative PDF images inspected",
+      "at": "2026-11-18T08:54:02.895653+00:00"
+    },
+    "deb6b3f628d5324067d2": {
+      "digest": "8386c2e63bfd76abda28c939f91a4b6765b724fb1d0e355fabd5d34882c9d424",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.357947+00:00"
+    },
+    "30e0d731df9e7113d6d4": {
+      "digest": "dac510a4eb94ae693c360eaab1b5d9ad74949778ed7474a8c2f46a3d31a81755",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.358036+00:00"
+    },
+    "10e99fa7b744eec8da59": {
+      "digest": "02f88f07bdc30e151c3f47827dabf2d4f5ab86a7b384bd2f22b576fcae117aad",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.358091+00:00"
+    },
+    "02012a872b889ad41d8c": {
+      "digest": "c36bf6ac3ffe4b13583a5131f1063e3d0f9eb69fcc081144ce13798f0804eeb5",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.358144+00:00"
+    },
+    "c468ec73e83ce178e880": {
+      "digest": "2c310fe4187a7aba67b5472529649b34d69d3e651080aab2c36bc33924d96268",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.358193+00:00"
+    },
+    "dacf3637005a3bafd9e8": {
+      "digest": "039f6b65f783d85a164a520ba31bc9fdc9b1cab8af84bbaac1ffd127dd0c3615",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.358250+00:00"
+    },
+    "e4e8033930bc286ad5a6": {
+      "digest": "f430743629bc76669bc2a7c48da345f798d45f717f7e0f740da652ab649a69ad",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.358301+00:00"
+    },
+    "f9ef8718f53caad9fc72": {
+      "digest": "c05dd49e08a184d165a693c7253fe27fd7636ecd476fb5258543f7649ad88b9c",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.358351+00:00"
+    },
+    "a2446f6ef8f6d6d4f055": {
+      "digest": "4ea2b5e2b9d53e96e7eb5fb8f2e1317d8303546e1fcd5ea48ac6c3eccc7b3048",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.358400+00:00"
+    },
+    "9325a3f19a117db3c6cb": {
+      "digest": "6d6a45df3836b2206d3fcff4535084748a2b3f290219954cc6c07a001cf9db85",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.358449+00:00"
+    },
+    "decb90910ec332feb112": {
+      "digest": "4ba635df07749d9785ba27e13e4ca15ec4a0856af29abb601a4522e65994107d",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.358499+00:00"
+    },
+    "6ab0b8958da529dbe3e0": {
+      "digest": "de9e2d3a69b48935924a0a1c6350766f17c660f6177e50f4915c40879fce18c9",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.358547+00:00"
+    },
+    "6e029497848e7e2e4452": {
+      "digest": "deb826f96985292f17147f068de7958558b2253eecaa041d557295013618b0f5",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.358687+00:00"
+    },
+    "f076a4fc51fa2ba2a3b4": {
+      "digest": "4d80b2abd3a32e1d0e55af98ac6f69eed6f771d3d2179fd446f991146d4f7336",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.358773+00:00"
+    },
+    "426ba5ac82e643af50fd": {
+      "digest": "ac3251c701b88ee4769d8bc5bfbcec0502121d87eeb711667f3a7cc0fb157653",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.358825+00:00"
+    },
+    "3340cf9bc79818d3e755": {
+      "digest": "f922834f533c70c881e4f8000fb7f4dfab2c557d81aac20e1101afeb7d2c83c1",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.358874+00:00"
+    },
+    "a95bd8b7c3cc8d1cdcd9": {
+      "digest": "69e197baade676880c83baed07efab7f54d9d71f93c22580b4a5342041f33ddf",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.359003+00:00"
+    },
+    "f98b154d1ccac0aff581": {
+      "digest": "84db7628bddca303e825e338e6c4b47c250bb9beec00326c7ed2949673c7f188",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.359058+00:00"
+    },
+    "302089577b2f3fcfa8fd": {
+      "digest": "268027908a756634218869d09d7e48154470d09212a249ae5316da4fca2c23b5",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.359111+00:00"
+    },
+    "bc8208ac044bbdd66e12": {
+      "digest": "d744aea04caab0825045f50938b346068ec9b521a8ae27e23c00c62220d2be3f",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.359166+00:00"
+    },
+    "cf638c0b726cf691f0cc": {
+      "digest": "2dca4a7107c77bf1e904d23d4b0d54c1827f46d500465638ae0281992afb47c8",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.359214+00:00"
+    },
+    "cf848d17f78a44f58cac": {
+      "digest": "3ad7945e4e5f4fc60eb9ade2e2c2cc75aa6a87928ba16187adf3367e33bb3364",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.359299+00:00"
+    },
+    "5a7716ca7dac8bea11fa": {
+      "digest": "413e65b41f66d59e63b443658ea5e4e65f1974dc97a8516ecbc39fe3547544bf",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.359354+00:00"
+    },
+    "016bb03bf53537bf58d0": {
+      "digest": "dd1ef5c7f71efdfb66726ef4b80263351ca8fd9eeeb2af0ac1605d324af4d00d",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.359625+00:00"
+    },
+    "8fc6037976c19971c4fb": {
+      "digest": "90c69e8eeb81497e234fc35ad9980744e1a6acaf35a064eff292d027142f7504",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.359678+00:00"
+    },
+    "41907e77f7d1a5cf33f5": {
+      "digest": "2bb99627df659e53afa362535ab9880b1dc03e448b6c3a8de387e4e061cdc3c3",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.359757+00:00"
+    },
+    "31ca06b5a036cfcbceaa": {
+      "digest": "26453fb4dd6dc23ffdefb1e694136cad35c312cf07029d5a9a5820bcf3a73c9d",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.359811+00:00"
+    },
+    "838cae50c41f4017fe26": {
+      "digest": "83b425e951c815879e9c17aff73bd30e79cd9873221a86346f504ca015c6d4f0",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.359861+00:00"
+    },
+    "e6828a8ecaea9288392c": {
+      "digest": "9390340b52fb8c13cfa5b0afe39f7126b0b7f59bab36d3501e369855b2dc6895",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.359909+00:00"
+    },
+    "bd21694cf073a94f7b43": {
+      "digest": "dc11659128bbf7246ab8d86476d85af388e33ddd058d6d56d24a25d2ace669ff",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.359957+00:00"
+    },
+    "60e1c6ca3bbd87601407": {
+      "digest": "b31468699caa052db72abeff19dfc407e0d5d3975837f91a49ec806aa6fe980b",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.360007+00:00"
+    },
+    "b6092d5a9a22d49fd3aa": {
+      "digest": "07f3aa5c995396b07d840d113d176f3c464ddd0017c2491cb9730059b8e8f28e",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.360056+00:00"
+    },
+    "d2dabceb9d50fcb28a3e": {
+      "digest": "4827fe0646a0dcaa61e10080adb2050255de72f5398b6d96664f19f3ca1af7fc",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.360102+00:00"
+    },
+    "87877ca3b327c343a1b6": {
+      "digest": "2db8edd5315feb0ae970d033f4bcfc7ba3164302b5b15efffebaa3a857672acf",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.360149+00:00"
+    },
+    "8de08fb872f7c21ea98b": {
+      "digest": "f95c0c85b350295cc1f2f7f4bcb75708f57a45c8279f39c7c0ae33bb2a829907",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.360196+00:00"
+    },
+    "94c833595ed75c7bfa1b": {
+      "digest": "50a7364d6ca60c05620dad2674baf71d96c303c99c78cc4de49de2c7b650f753",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.360243+00:00"
+    },
+    "1ed0ddc7192ff98663cc": {
+      "digest": "2d0891f9d457028df10ceb799964657e06a09275db197e931c0e2ac6913c594a",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.360291+00:00"
+    },
+    "6eea045768fe3481f57d": {
+      "digest": "ffd5670b4d1d2b9a3b2305c4c12aaf8ab5b263d62f7be4aaafa6f557b571b4b4",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.360339+00:00"
+    },
+    "4095ea7697eb9bdd4cbc": {
+      "digest": "eb1812913db9625614a316c1f33226b175b95619babb734b898cd7d0afcb3b5c",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.360387+00:00"
+    },
+    "547ea8ea3d3157c69e53": {
+      "digest": "4211fff8485aa00d55bcce88f77244d6d72b1e4a96b1af017dad81156213e8be",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.360436+00:00"
+    },
+    "11e19ed44dc28f313f02": {
+      "digest": "09cfce17dd9a1ba90c7200bfe471a3c9db07663d98367a792df03e17d4770fc2",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.360483+00:00"
+    },
+    "a4d682a2f2053de40bce": {
+      "digest": "c503cb9f8d06c24277e43868dd59f7ad8153a21eb3f30558fa77f96bf2a24c09",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.360531+00:00"
+    },
+    "5ff7acaa3f39842d4e66": {
+      "digest": "9f2f15f1d28284d39f861b8b5cdd4e137f95dde07a29b031456537f98ab4d6e1",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.360577+00:00"
+    },
+    "f2cf233beb3c5fc387f3": {
+      "digest": "58243d474545441f7d50978962a0e30e44e62ba65980d0257ae70383f07d212c",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.360625+00:00"
+    },
+    "66a6bf1b1a35fd2193c8": {
+      "digest": "177d0ded9e9b7a805dbc816d0f98d68b017724b54d4806d0b742e3db1defc93b",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.360672+00:00"
+    },
+    "3525b01dc38cfa3080d4": {
+      "digest": "e9ec444fde88c338ef599b138c16522ed63aa4875ec03b95d63c375c39de9466",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.360744+00:00"
+    },
+    "1e36e52dcb959daefe9b": {
+      "digest": "f67f98898c7a8770987ae9db9350ec08c3ccab237d1d4842a54db7c251275619",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.360795+00:00"
+    },
+    "79bf19825f105f3ffbd7": {
+      "digest": "be76d39b9e765aeb3d654b0b000157f04769ed7734184c6f7b0ccb53064db699",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.360904+00:00"
+    },
+    "208722cce8f75daa2a5b": {
+      "digest": "9fdea9e647c527a47efc8f769fbb9c603d13b1e4e4490ddc580650a3333dc39d",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.360960+00:00"
+    },
+    "83ef7ad179897aaf20d2": {
+      "digest": "374167f891b9c96c818f7f0499b4ffccd3a87846cef88ba8666e5fa453a6a94f",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.361009+00:00"
+    },
+    "4adc826b94a831467788": {
+      "digest": "c611538c8d801b854ee0b12f19f00cccb6875b056c40ab2b97c39df588bbed0e",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.361056+00:00"
+    },
+    "4ccee461698a4132dc6b": {
+      "digest": "aeef98a2db3f003722b786548a183227dc7d59c593d5f72307eb88f43e7e5cc0",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.361104+00:00"
+    },
+    "18e3d43263b1c142bed1": {
+      "digest": "78a2389f6d42433a5c755700ba939d69b7895fb3a0133dff8381d0f514e0f31c",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.361154+00:00"
+    },
+    "f6920b00db8f49dad5a7": {
+      "digest": "45252d0bedcfc962087046d6adf307310c50d7bee897830c3a5c9aab733a1502",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.361212+00:00"
+    },
+    "54da04af7504de7ca8e8": {
+      "digest": "3af36fb9c6f870db2578855ef677e451ff5990631cc00753ab2a462a98c44ad2",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.361269+00:00"
+    },
+    "611c4ff4ae3ebf364417": {
+      "digest": "23c44026f0cab92dbb7e43f2095736acc61e631cf15760a1ef9264af934b8d82",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.361321+00:00"
+    },
+    "f02e798dc03114bcd64b": {
+      "digest": "1c555966fce9cf36368af483562b77b57c37c6cf247e84344fb48da0932782a4",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.361373+00:00"
+    },
+    "7cf5e52260f311393a3f": {
+      "digest": "1bfb93df78c4badc80f40b0dc3fd2389d98525ee2677c68e76f964a2f1e0e592",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.361423+00:00"
+    },
+    "07c0ace90a57e5d42fe8": {
+      "digest": "6d877fafbcb525476880980110f1c8905fb59aaa9f00fe63a917209b202e8930",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.361471+00:00"
+    },
+    "bc60993b33e1523dcab5": {
+      "digest": "b45d699bfd8ed07f644bf407bac004c6f81de1a854a51723a7df7a25e9083f15",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.361518+00:00"
+    },
+    "53ccdd425fec535fa508": {
+      "digest": "8a415be5ce4add4ff32c7236ce6f10f300ff5f6c4f640209419dfeedadd54749",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.361565+00:00"
+    },
+    "8dad0b2dacd930352e40": {
+      "digest": "396436baaa9ff1e63b30fbfef0868ff9c016b0820c9c7007edb5bbca5dc1d01b",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.361614+00:00"
+    },
+    "a3340e5e307cf9b3d331": {
+      "digest": "d41e0e47f721d3625d6ed4af0199323bae461e845fd6b026ba49a6d655337fb8",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.361660+00:00"
+    },
+    "317ca86b46d1a4788157": {
+      "digest": "2c3212818eaf299ff7cc5dbdc1078beedb6a3f2c6232eeff32af7448beaaa1a3",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.361709+00:00"
+    },
+    "ce93c7320caa33abb142": {
+      "digest": "526bd3a5f375f941edc9d88dacd6c302a023ff8a2fb966794e0015178b545762",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.361783+00:00"
+    },
+    "b2a7437e56814d44732d": {
+      "digest": "a8f172cdd30145a4df8c66b289b37f6422989eae7c597aefed0ff173fc7d6068",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.361833+00:00"
+    },
+    "90a0ba3ddc5274d52af5": {
+      "digest": "12ac0e6969a1b7757a269ee83b56bf32ea261cf529256cf32642e5c2a3748c18",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.361882+00:00"
+    },
+    "f36a3c1553a19d3fb63c": {
+      "digest": "7fbd9986b7fe66c5621524df1b096b97185bfb5f0302f6fd1728cb1a1e70cdf9",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.361929+00:00"
+    },
+    "426e16926b6c7bd07512": {
+      "digest": "fd11b8f2f9c36fc1ad650f51a6f625c30dd8f2667ecf272933fcd2aaf7679a70",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.361977+00:00"
+    },
+    "520f7b323bacb4624242": {
+      "digest": "9fc4fd543ff41deb6e29d7c1f586e0e4004431f4009faa89b3d3ed7ff5fe8c31",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.362026+00:00"
+    },
+    "1fffa3ead5335573d4d0": {
+      "digest": "e2f3e406551c0e22fd4b719e62344fa6709dd65cd0aee53a3e88ff473235b401",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.362073+00:00"
+    },
+    "5f10b33eb328e9e625f0": {
+      "digest": "68f58edfd32c25137dacd83895cd34d332d872c19944af4688b1a542b66ea381",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.362120+00:00"
+    },
+    "b71207b9739abcd0e8b7": {
+      "digest": "71d7df4feae673dc6fec5a64b02b907197f8c4c36fbb04c7a2ba5eb70b1db01c",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.362169+00:00"
+    },
+    "4bdf7780f32236a83c76": {
+      "digest": "3b4de7ae80d142d858c41d3ce1429e858814f0e4c80f07df85cc4f8b1676a3c4",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.362216+00:00"
+    },
+    "9207c3d67697ba3e16eb": {
+      "digest": "8952738f29b99c3255d78b96703a79baded4614789fd220538ca2fde3eb2b401",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.362263+00:00"
+    },
+    "6f1f9efa0c374466a6b8": {
+      "digest": "10eeeb28fbf089ec108642c6a86660f64bda71ee46ecd43cd4e75172050d62d3",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.362309+00:00"
+    },
+    "2623db2a4fa9c3e4d4d7": {
+      "digest": "b7d7d134f1d64aec73a852f424007d830c47160acb923366395b193be1c2dc41",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.362357+00:00"
+    },
+    "4bb13de9f6100226bbf6": {
+      "digest": "e44c535922ce50400642f3d04fc09b58b5042449c864bebd5bd232c747cebd29",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.362404+00:00"
+    },
+    "5576d5c22f93edfaa914": {
+      "digest": "c777acd2da6e379c6146f6001df8d08e57282ef874c6cb733232075b458569c4",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.362451+00:00"
+    },
+    "1019a044d4204335ac7a": {
+      "digest": "ce39a881195a339aa5a7f55dfca224ccea18f02d307b9e2aefe93e0710fcd102",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.362500+00:00"
+    },
+    "5ec5d7747f82e8da8762": {
+      "digest": "8c6efbc91ca365b5ca38352993719ef24c34dff8eb5a343c26ade945b74de3c4",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.362547+00:00"
+    },
+    "7b931e4e67dacda48451": {
+      "digest": "f20297f450cf7d4cc6c7a8a62dae3b5640e36aa4e1023937dc770f4ac68c9ffa",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.362712+00:00"
+    },
+    "a39ae416247a3f3e5c5d": {
+      "digest": "729abc3a64adefbc5c7ccb41e917208bb7faa35aea7e5b10d5d88092d13e908f",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.362794+00:00"
+    },
+    "cf578ec5e652f7e6fcee": {
+      "digest": "1334cc6c18ede09e7b9ac47265b38008f4cd0e555a6d5d2741561595edf4b234",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.362845+00:00"
+    },
+    "d899b3247174a7e56498": {
+      "digest": "33f55c41513aa0668ad044ce626786be658f2ac19de62538f0b292f10f959b4b",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.362899+00:00"
+    },
+    "f3c12372c922f8649cd5": {
+      "digest": "7415846b1f5428200ef1cb4b23dfa1e06a2f5abf6c65c7c30a7dff7cb7bbb5c9",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.362947+00:00"
+    },
+    "01c06cb820f69fd721ef": {
+      "digest": "cc6197f1ad5008e2f92634dc9ed0db07a59a909dabec4c8ee65d6d5a03a123ff",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.362999+00:00"
+    },
+    "f4dc371c42c8a1c04eb1": {
+      "digest": "6476f2b116ceb1397b4a45580b950e272cfbbbaa4e44e80549089e8470033056",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.363049+00:00"
+    },
+    "cdc71fdef2e1235070f5": {
+      "digest": "9b27e2ff85ff808325f0e930ec8d8f4481b9d9a0b88d4b368a194e35a07762ac",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.363098+00:00"
+    },
+    "c3cf86241a4dbefac46b": {
+      "digest": "5e63c5953a910bc545c341cffa61ef550643e40b466fc974d4bd54bac473fc93",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.363146+00:00"
+    },
+    "92a92602acd82ca8512d": {
+      "digest": "b35e5126ad59797afa4a7f92ed3983d25c7cfd96323d758af971ce72434e61db",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.363197+00:00"
+    },
+    "a3ff3018e95885fea755": {
+      "digest": "d008db13059cc9c6ac2ae23b39668ad0a650d449281f6cffdb0476c833595caa",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.363273+00:00"
+    },
+    "20f77354f6f1048b36f1": {
+      "digest": "292b6a5a6f1200f4f0e7a0a1a965d31d10ead42bd512949dcb56ef15d759bd32",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.363325+00:00"
+    },
+    "f5d17187913124ac818e": {
+      "digest": "5a070de72e3da306608943f27e31f520aa9b79d4dc083a6d70227a617ff064d2",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.363467+00:00"
+    },
+    "df2141d3f08697f2462d": {
+      "digest": "401b8d43ee07fa77553d69bf5fcb0adcef6ea64d3e9b429e1f2d917e93787fb1",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.363527+00:00"
+    },
+    "aa04c4cb2e59018e6a1d": {
+      "digest": "9934d426c843f7ffe09eff7a74cc5672ad1cfbec949b479d26012a839e20f2fb",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.363579+00:00"
+    },
+    "1001a4faf62f0142f0dc": {
+      "digest": "77803182373b1a82294dcf677994bc8efb448671a66e714eab9759cf582b674d",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.363629+00:00"
+    },
+    "d193d3f083bca4ab96ec": {
+      "digest": "8b628a0190365eb98bc38c60a2eee63faa59141e29d52542898ae964dbd742a6",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.363675+00:00"
+    },
+    "7c0d118e04b4df34ad25": {
+      "digest": "2be52b29a98154e99f9963e6153d63de486b9aabfdd62c9122a96b7ea65de788",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.363754+00:00"
+    },
+    "92e42ff3101c8b20c783": {
+      "digest": "05b2502b93bcbac885e78c5542d0621b50ce6977815b40561b8b1e8e055a9109",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.363804+00:00"
+    },
+    "915aedce435c3cc87be2": {
+      "digest": "6830a5a83c177360ebd8bf1a11e2c875a3d1089a0c89bbe735fe5faedc1bbd51",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.363848+00:00"
+    },
+    "bf9ee324eff356690ef4": {
+      "digest": "5b616dadae7705886393b37dcd702f5f28a295453d1984e4c2a32213b8762fe3",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.363893+00:00"
+    },
+    "00c567a8b27a8130a874": {
+      "digest": "ab6fc0dd6c0083810233983a461a70f892094e58d5d7882a04a93b2c00811bc4",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.363937+00:00"
+    },
+    "a0a2533d835d791e323d": {
+      "digest": "14ed0265b4f001746d628409edc32dbf2789ba067f2506c4ec303e0747f060db",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.363982+00:00"
+    },
+    "6d6a4f8a2a4dd4f3dc43": {
+      "digest": "72dc87021e4b947c600532ce456cfc801bf38235d1d216d8bf19693afa76050d",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.364029+00:00"
+    },
+    "7e7ef22aad886bfec575": {
+      "digest": "09186ddb11c701a7b2b155740583402ae6fa5a0263fbd2770e9d571673b66be5",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.364074+00:00"
+    },
+    "6c4d96afb757d40f4f70": {
+      "digest": "7c92d5ff542e74b804c4bfc5a0770aa2604b363b47e6b0f85143d448289667e6",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.364120+00:00"
+    },
+    "352670a3ddd915ffeddb": {
+      "digest": "a7f58bed5ecce2d871643c8fbbfba6db8cdb629eed0fcb63788ef932979183f7",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.364166+00:00"
+    },
+    "93d3d1fe8c5e4f355ab1": {
+      "digest": "191855d0e3e446490bee648b03343a440e8fd0cefa2612cbd12bdad0771e9e87",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.364212+00:00"
+    },
+    "3fa53915177ef4a062f1": {
+      "digest": "bf3be654157053dd00d06e316403c08ca7049ef5d1260cbc5604d48f6c19aaea",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.364256+00:00"
+    },
+    "debcc7bd37a822b5761f": {
+      "digest": "0883a5e0fdee03f6151ef6595bb7023c6855ea8f07e69cdd8188db64a1073e08",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.364300+00:00"
+    },
+    "0348f67a68d36f08d6b8": {
+      "digest": "67a021dddac748f5cadb5026910cfb3a903241c324f59e56938777c93fd30330",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.364343+00:00"
+    },
+    "970d8912a742327eac7d": {
+      "digest": "88545e2b6b776b7ddb2a01769d3ea41bc60b3c3ff61003e63ffd0469a5efbf46",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.364387+00:00"
+    },
+    "9ce44bfe68588fe59818": {
+      "digest": "a246f84e4ce3e66e5dab7dec0acbaf0b5afd11033e080b1eff876d38638d9ac5",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.364434+00:00"
+    },
+    "1a03a905090dcee552da": {
+      "digest": "8a1f2650d2af4022ec833739456904bf6036e838b0875013abee68c25ceeeaf2",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.364487+00:00"
+    },
+    "1fb30685694a680bba5b": {
+      "digest": "54d3ffb2c91e722b8552bfe55420f3766519437a9e370411de413aa003595d99",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.364603+00:00"
+    },
+    "8cb92c7aada3fb557a46": {
+      "digest": "1d8d57268ae29c3d251f532d595950ef2f3f4c8fc63d482f48532258168b503a",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.364650+00:00"
+    },
+    "7cc7b0ef2058370f7d47": {
+      "digest": "ef3d3aecd164535c07f70b87f618720b599a8540d82b2b2c9e70ff8d95435d27",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.364696+00:00"
+    },
+    "a6ba8003043baa534326": {
+      "digest": "af5d5c821ea0973dcb3104f1d479d8851fa2421a668805ac1f994e1e9b2aae1c",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.364783+00:00"
+    },
+    "bcd69bf24eed57b5cb8c": {
+      "digest": "a62cde0df8a495856f0c1f9ad4452d97a855b3acabd666b3d7b5771e5a138972",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.364830+00:00"
+    },
+    "3c584474f9767a7693ad": {
+      "digest": "f0ddc42ef292bccb2f4f116a4661d24317999ff8e56e38a1233cf1eb06d09a5f",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.364876+00:00"
+    },
+    "2d517e3d8af0eaf6900f": {
+      "digest": "f06843d7694b509385db1b6b0aec89e1c90a09e508a15155e845fa0b1e811dca",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.364921+00:00"
+    },
+    "fa0e057599bacea57967": {
+      "digest": "040c3c97ce33afd02e420d1ac0b67d61ff01563fc0ba0da5983272c331c92b10",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.364965+00:00"
+    },
+    "1fe97cb27f209e3b967f": {
+      "digest": "eefece8a64bf6a7e049d56e2c3af0ee0f347def589b1d9c2e6272ce8b72293b3",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.365009+00:00"
+    },
+    "bc398eb06d8005993143": {
+      "digest": "17fa967994e0aa92c81ae9bc24bd6876a9dcf1a33217201aaf96b400777c38b6",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.365055+00:00"
+    },
+    "899d7a41fcb350aa6980": {
+      "digest": "66c4a77b57629a0e118b3e865a582dd73880dc034d98930cfcac0d73172a023e",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.365099+00:00"
+    },
+    "144f4352882020268ef3": {
+      "digest": "2a45e11b24dfda9b33488ad754c9d1e7f73a3d473f30d32a8abf94e2840e7305",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.365142+00:00"
+    },
+    "0a746ee3d398fc509fc4": {
+      "digest": "0fb9e45cbf5e245919f0e109f5a5766ba6aea00617bdae76c6096c68a6fa1aa0",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.365187+00:00"
+    },
+    "787ccc230a0d24d04661": {
+      "digest": "30782dad04d6308aef02a253eddc13dcede6f095abc87e60697baf048e11ff30",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.365232+00:00"
+    },
+    "ab1f9f903a2151a12bd2": {
+      "digest": "abf9a04e746c7cf8e93137d38d75fc97633d4b27b8e9303107d1ac65cd57c1ff",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.365276+00:00"
+    },
+    "ef4e5990caeaaed21983": {
+      "digest": "f57d39bd10b07254c0a73e49a04ecf546a000a345c182485eb896b10c071c670",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.365320+00:00"
+    },
+    "1cd9549f5f12418a6e0d": {
+      "digest": "cd22bfcea1b0d4c6de3be135819e8315d4d6ee68221a4cb8b69e195299c147d3",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.365365+00:00"
+    },
+    "068b988fdeadc7fefc0a": {
+      "digest": "a6bf34935c72439360dfec1ac30d352a4cf776376fb554c3686d78cfa4b4f584",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.365428+00:00"
+    },
+    "02716faa99607066347a": {
+      "digest": "39e246607e47ae22798acc89b4036a0c30da3bf87abb3d315c84188b95a41c41",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.365475+00:00"
+    },
+    "e9e029755f8ea4bf94ef": {
+      "digest": "470eb616378d029383dd59fd0695c82e6ff0f7c1f0f7c2fd4d1cbc025020eb7a",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.365520+00:00"
+    },
+    "9ad06dfde1dadb494325": {
+      "digest": "a0f1aaaf88508eadc814c791641d4381ee623fb0465d4422b7d49d7e60b037b7",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.365568+00:00"
+    },
+    "f2607d83e479b8105003": {
+      "digest": "7f4321b4a6b2e02c81710d3dec14fd725f67cc8e41dd0691de4d38cd51178af2",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.365668+00:00"
+    },
+    "5020da984ef3c4899ea0": {
+      "digest": "02b70bdf426400a8bebb710561805e1df70d1bd2b6aaeb52b627d5904c76c794",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.365713+00:00"
+    },
+    "83aa2fbd2d0fd32c54ee": {
+      "digest": "183407bf289289d7019f7a9662203a56b405b7f18562718dfff8951421afbadd",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.365790+00:00"
+    },
+    "614a07aa60f1974172e2": {
+      "digest": "4502c6513325535dece65fbb34f51eb2e29924f943b0fc90bdf8a2ffaf5ca802",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.365834+00:00"
+    },
+    "f1f46f67fb62b7fb2385": {
+      "digest": "72dae845a5374ef6ecc91138f6cf00ef7e2af4b7e21605580cdd3b4c21c6983d",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.365881+00:00"
+    },
+    "c60c85abb0d6aee5dac7": {
+      "digest": "dcfa4da55eeb2508ed0ed4e5126d6cefb33a16afaa6cd072ea3b1009f69005d7",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.365925+00:00"
+    },
+    "46db83b4ab527599392b": {
+      "digest": "560bb2b39e62ee8ed0d624e6112594147ce5dbce15735d3ffccd1e63ffc57699",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.365968+00:00"
+    },
+    "28c19e8adf4e21de1a48": {
+      "digest": "d9415651323671007a32f7b881c22a408c9570cd44ba7d46405e5a8d0c325c67",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.366011+00:00"
+    },
+    "fb2ad289547cf29782f2": {
+      "digest": "48b8f2f33bd3a3684bc5ecd5a5b48c4b7a62f755ddf33f2f892533a98ea67d08",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.366055+00:00"
+    },
+    "e0e70f6c967e9be08562": {
+      "digest": "87c745de70b9a6d37a05666b2a467924c499176ded2843c51b7ef29363a92e6c",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.366098+00:00"
+    },
+    "804487649d0ab3f8d1f7": {
+      "digest": "c7416d8b45e8038da62215e8a27a2fdceee7fb416c86923435f132b5ae190e77",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.366143+00:00"
+    },
+    "844b368d368a1f5a1fbb": {
+      "digest": "e87a5a03f693b24a56f1864963279ca39bb2520f7fbf85ac473c294431ed27ab",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.366293+00:00"
+    },
+    "dbf70d246ba370ec07f3": {
+      "digest": "e36e390e1f82cfce287939f5535cb4d9449bc4500f45183456063eb6beb8c7a9",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.366342+00:00"
+    },
+    "2b35a22672a5b8f0b67c": {
+      "digest": "fd40a92dc8bf9f3cf3df5360c6f95d53782c8520551869d8fb600ddd1fea23e8",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.366390+00:00"
+    },
+    "2b34b81834dddb9a29d7": {
+      "digest": "88cda24b03ea143649d326a727fc0111b1a29469390b60b910e2a3711fe3be01",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.366437+00:00"
+    },
+    "77fec95808477458a8d1": {
+      "digest": "02156f1c9916080250e82edb287eb053b9a2e77d66077bcd8014f8e399918e84",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.366484+00:00"
+    },
+    "63ec4170bc7d84a42931": {
+      "digest": "caf3e323126f9d8a9c1e4dfd16a7f184ef8fb866ac779218e9f130c88a485e29",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.366529+00:00"
+    },
+    "54ce10003dc92084cfc3": {
+      "digest": "c1dc3097cb41d3f19bf9effd1a0e16dd23487ad73aa5bad64bdc1d0070493151",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.366574+00:00"
+    },
+    "1410a3920afe732bdc32": {
+      "digest": "1dc0dcc56cc0f315ef906cae8452275d16e5e210f901ffbeaa45fce35484b5bc",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.366796+00:00"
+    },
+    "f8bd7e334257d9f6bc22": {
+      "digest": "802843a65e0928c6deb71dec15d98e27949b3710bc8296fc289c4bc709ed4ff7",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.366846+00:00"
+    },
+    "af1903a4f649f8920719": {
+      "digest": "ba9f1f0820d90096fb55709bdcaf63781c0cd3e27048c1943a344d19b5610516",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.366894+00:00"
+    },
+    "5e49d39d55c190d7f7fa": {
+      "digest": "1e68e98562a49069fa19d1f4ae905e3b91888146fa5a6b19129f22328057b2dd",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.366941+00:00"
+    },
+    "0bbf40357d40f01f486d": {
+      "digest": "21ecf7c58b7b5edb35433f9e4081c60213539b78e103ccd36646ba0683155141",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.366987+00:00"
+    },
+    "671e1d74623616ea8cff": {
+      "digest": "f3924764acc018c038fe58661d431bed8d742512324b9c1c9d7275390e7f874b",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.367033+00:00"
+    },
+    "be9579eda3a076fe7960": {
+      "digest": "299d54dbdee090c8660cee340a43bd2ec1f56b9be2423b54c5df978656da52d9",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.367081+00:00"
+    },
+    "b8fcffd37442b945fb2f": {
+      "digest": "99975261e707add92098275dbc6099a5adb231d67816ccb5c507d8e7abb32d02",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.367126+00:00"
+    },
+    "f7a486d38438cc7d969f": {
+      "digest": "70fce107c5887b7b17415cbfd18d1f5bb43944549d8c2bc3785f782c27ee50cc",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.367171+00:00"
+    },
+    "f5faff0296a34dc398ce": {
+      "digest": "e6fd478e6049495d2d1f1d1c1bb464abae20b971e6415e770912c47533fe1582",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.367216+00:00"
+    },
+    "9b6f5e018cf87165e9db": {
+      "digest": "f1a4c7730915f9a6e182e8cbb94df3ef798dc763585340103513ee464d6772d8",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.367290+00:00"
+    },
+    "f37ac71ec9879cc4525b": {
+      "digest": "78234f09e49e9f1ed71ebc608f0099824d2ef9365546704b16239f107fac56d5",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.367339+00:00"
+    },
+    "e9a25edfe37f59126849": {
+      "digest": "2e697e5bd3216f1b95ef6f66608c9be7e9fd6b6348ad443f1c71eb611636efe2",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.367406+00:00"
+    },
+    "65640437eeffa7ad5d3b": {
+      "digest": "417eaaddaca72cd72708bfd43d00382a904f12f6a6cadd743dbd100387141655",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.367490+00:00"
+    },
+    "dd929c57ba9edf490bed": {
+      "digest": "bccd71a1b2ace6f6ef386bdcbda51c704558443f2f35c8b4d6349edc0a665450",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.367539+00:00"
+    },
+    "1bf3c53532f501f7e54e": {
+      "digest": "a321b5ff6843c73697ef0127e75ec6e9701f69a5bff7147ecc345b8e387c772b",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.367584+00:00"
+    },
+    "34ac51a721bf5cc8dabd": {
+      "digest": "d5991a4dabea4ca518d5f7dcc19416ea280845323bacfab60bc50cbbb59cc3ee",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.367629+00:00"
+    },
+    "10b3005677b9aa1f945a": {
+      "digest": "fd789c0aa13cbf8a43811989c14975668040a1e7388db3289f1cfaed6c198fbc",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.367676+00:00"
+    },
+    "d3ce78489dacc5a8f898": {
+      "digest": "20519f833e6fd5ecaf08c6059876b49689460f777069226d92c2e05a6440c3e7",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.367759+00:00"
+    },
+    "871a79271f347e276794": {
+      "digest": "876fe49e32ef10d3e247076d580918f99b10bb978983e1af615c2d1d23643bf0",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.367809+00:00"
+    },
+    "6072883bc717bc7cf1d1": {
+      "digest": "6356599e6ba34a81d4fb71e88574707b2aa61c06fe6c6ff8371796bee05e4e43",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.367854+00:00"
+    },
+    "0baf167acd3eaa3a82ef": {
+      "digest": "57f3aa01f1c7d921005860cb932bfeb34b0200db5be056d564050f0221b0c7e9",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.367897+00:00"
+    },
+    "a380acbf4fc57bc0dc20": {
+      "digest": "26545f29fe359dc34dba3f5788786c18543bed61952806f723cd096147ebcbd2",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.367942+00:00"
+    },
+    "405fb2c9916c541c135c": {
+      "digest": "03dfdafa41246284b6d121199540320154476b1c9ebebd89ffa2ae8052c21b78",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.367989+00:00"
+    },
+    "5b2dfc1c33ce704acb3d": {
+      "digest": "8ff3f7269aa9a4364fab74f5c105887231967386d1fedb0f49ba5b5a7b1a1c70",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.368033+00:00"
+    },
+    "7bcd0338b7a0ea249bd7": {
+      "digest": "08af7ca5fe19f6dcaae38ecd5877324d06ce7e0e80ab93b72668e06e4be36d98",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.368081+00:00"
+    },
+    "dabff00af55ed38572e4": {
+      "digest": "e17f7b230422017d0cfcd14e7008a0d3686df0656d5cf8524f4a1f5d72c6eb21",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.368123+00:00"
+    },
+    "8c5b0e159be88c721ecc": {
+      "digest": "ecd4175ecef2e37f7a4b455327d91196f4f9ef1bf2b0eb0749fa8ff00df96654",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.368168+00:00"
+    },
+    "d2b84e1cef649fa7a7e1": {
+      "digest": "600c66c19b9a629163c82b042fe060702f857f5a1281fed4d2b859ff22f4f084",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.368212+00:00"
+    },
+    "af10bc312662c094b32b": {
+      "digest": "1e08ccddf81786e74b3b1fd403e0f489575792797b33dcec465172486891f4f4",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.368255+00:00"
+    },
+    "12fe528458bd77e93091": {
+      "digest": "102a8e800d4331f1e29dbafd67ca76069cfd90564656ad708d73e83a19d7ba80",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.368299+00:00"
+    },
+    "91ac02014c0fe7d3d9d9": {
+      "digest": "4e9d1484f784874c936f82bdb190c299fa15c70742b564c11266394ffa25751e",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.368341+00:00"
+    },
+    "77a790eace79e98fd5f1": {
+      "digest": "6e5543d562ae8da085f0e62315c6c3bd144fca0164cc0a10b79f1df894e980a8",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.368387+00:00"
+    },
+    "3527490d60bfb17edd25": {
+      "digest": "32722b5ec52806869e3ea9f41073b320f7ecbdeea577a1478510bba80e1cd915",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.368430+00:00"
+    },
+    "dbfb4bae0f38ef88817b": {
+      "digest": "f4fe38ac642063bc6ca80add4a9834ef757c511c8ad8f63440a062ebcb1a5f43",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.368475+00:00"
+    },
+    "254ca2f157d23bb90105": {
+      "digest": "95ba696adb93ed283f91014a192a794406febe590a415572df88779ae15f815d",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.368627+00:00"
+    },
+    "7a49c3d6e7d6f2379bbf": {
+      "digest": "5ee85157f9dd89a3012c1f435edd66bd89b3cd32d03cc5438c6ac9658b2051f1",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.368681+00:00"
+    },
+    "207e1112656ac18cea17": {
+      "digest": "717288abe16ae4dfa7c1a6384e938fba9de50d0e323520a8c187ef6f6d550dd6",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.368774+00:00"
+    },
+    "a808622e45a30519d8e0": {
+      "digest": "6df1b007bace0be26a17cfade5b7dbbb2679cc4ff96a9184599921269cec45f0",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.368845+00:00"
+    },
+    "3e34e16108aa19f619fe": {
+      "digest": "72a6190d29a5514d2e3ca9da88dc3ce559fd4850a1cfaeac7c7e9e5ceeebcae4",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.368891+00:00"
+    },
+    "8c147644f82e4fb3bd05": {
+      "digest": "6b99cddc8e9bcf2cda94d203ca34599babbc3f3041991be5bb44306094a9300f",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.368936+00:00"
+    },
+    "663fc8bf9001da8d432e": {
+      "digest": "f623d03c89b621ed82f3d5cb366a14cc1081cca34f956578124097c07b49ffae",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.368981+00:00"
+    },
+    "df19f22ab2e465916990": {
+      "digest": "107614ca46d3e2228d6f23787e3905de113bed805e4196ac65cd4fc7f9783b71",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.369024+00:00"
+    },
+    "5ba0b8512355d8e77866": {
+      "digest": "c052e538bdb2271c3ab3582ee87b492f1e12681d2ea2484712c4e2a23b9508cc",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.369067+00:00"
+    },
+    "3f012e27c39a8e4b9fa3": {
+      "digest": "b4a417bc69cbc328cc7a3e9c61581876bd45595e3ccb5da4c7abebd233cae537",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.369112+00:00"
+    },
+    "a64aeac1b15f65f641d9": {
+      "digest": "51d56e2504c0e9fea249946849bd8b6ee74707ab0e8feea35b69bb3121cf635c",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.369157+00:00"
+    },
+    "120b78e9ffe296b9e1e0": {
+      "digest": "d9b30f25077bca0a09e220c75847bf2235c5f29c5f344aaee31be04dece980b0",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.369201+00:00"
+    },
+    "4ae04f4c26082cb29954": {
+      "digest": "4ba20c7a216bb7fe5d4731a7ec9f7aa0e3eb74d81ae49c274ec68cf05a2a50d1",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.369245+00:00"
+    },
+    "838da1aee3e7f7c93bf6": {
+      "digest": "fa928b447effe815f38b7c9ef43d99077b1ca3e600c6f3e301158abc882a910c",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.369288+00:00"
+    },
+    "393f12b6fffda1a5b795": {
+      "digest": "9d6850e2c96ef43c620ae4070848c63b822ff6a5da558a543d67e09e7cc3cf3c",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.369461+00:00"
+    },
+    "58fb0269bcaf8ba01b59": {
+      "digest": "461036752afa21f680f13d42227af08ca5db66a4ddcf8f21a349d0244df719ed",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.369526+00:00"
+    },
+    "887c6e79f6834a34d28b": {
+      "digest": "e459bf2bcf1025b2fcc75815044f3abe03bc96e567ebc7bba3265d819e838491",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.369573+00:00"
+    },
+    "e8c1d62c1822dad3e104": {
+      "digest": "bb23085836b9f9187279a17ae023863c6177a6890f77de54dccee4f15ac16c70",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.369684+00:00"
+    },
+    "fea305fd152fe5e75b4f": {
+      "digest": "148f439f70b538c59982e57061f8dd659ceb2db3a6ef4db9fb450f2113b521cf",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.369843+00:00"
+    },
+    "e54c09c9b1e8fad8e465": {
+      "digest": "e442023969feac8acc6ecc08b589c02484bdfda3ff2fddbd92b4d08eff382a28",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.369890+00:00"
+    },
+    "2b5dec6f7252d9f5eedd": {
+      "digest": "aa40e310c713406a70dd3f3765271d7aa1796718fc277b5898db134d90193659",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.369940+00:00"
+    },
+    "6ba233a0d3c405adf1e2": {
+      "digest": "b47756ed29347f9c96fc55a012af85d5f1afe328e317e77b6ac10b3f36d3bd9a",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.370085+00:00"
+    },
+    "eef11bf2b372c9a4086a": {
+      "digest": "73a1b4a31b39034cbf81198934e17ff7f04700ddec5c252818136f4cc7e98920",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.370150+00:00"
+    },
+    "72cf54947342f0a25247": {
+      "digest": "400141c85709c24d0fc052542b3f8864d86a80d5e9c5d227f2a15554ac909221",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.370197+00:00"
+    },
+    "d6cb476c3879668c90d4": {
+      "digest": "9495e87f378a4bcd1dcd2622f9f8f9900b2c14cb0d0a730d9aec394ed938c7ce",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.370242+00:00"
+    },
+    "deb7ae23ab88d9ced1eb": {
+      "digest": "d320d6710cd5f94fdca780ff1c78d789f7492dc12dc330a5e6b1f4e9fde2293f",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.370288+00:00"
+    },
+    "578e1c3cfd1a05a2d760": {
+      "digest": "6c9bed57d2ed43432e81d1161183dcdf343c7507c3f0cceb5896ee4dc5d2ca16",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.370334+00:00"
+    },
+    "aeca8e8487e216e6d260": {
+      "digest": "e444d27987ad9d8948288c3d4c0eb396ccbaf356c822ea584f4e93a665b17b38",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.370382+00:00"
+    },
+    "06dadd9a30857cc2a086": {
+      "digest": "aaa6f0ecfdf12d3dc78c592d3e3eb30bdf064c0223f2c4094052d89c26c14673",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.370511+00:00"
+    },
+    "023c54786ff851e796e9": {
+      "digest": "5b4df15fe28b0ff19731e5dad52f1ec4b4d93db2a1a187a4c62d165cdb7fef58",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.370563+00:00"
+    },
+    "b4dad9f4fc0ddaafa620": {
+      "digest": "3136b0cd443b6e23ed52376e79a318092b1676fd16aeaa24396e4c9c9324850d",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.370690+00:00"
+    },
+    "99902076430986e51497": {
+      "digest": "ce09678191d6b359a5e7a8dc807436f6ab6d825a312a2950addbb91f8dc07768",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.370767+00:00"
+    },
+    "c6f9fb6ad54091b9e05c": {
+      "digest": "1565cc6773fb21b414945efc468820febccbdde2dfec44d0770ca2b2bf5f49d5",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.370813+00:00"
+    },
+    "d15a2a01c36c585a8e28": {
+      "digest": "ab87e143113b517f20ee2ba67020834ca6ff96e22a5938fb2d114c9b27e0469c",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.370858+00:00"
+    },
+    "9511fb3ab562473e2f95": {
+      "digest": "715592ca14bb3c4ab492b788ca231848813d3199a9a3a399f705a54ff8a50adc",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.370904+00:00"
+    },
+    "87507516b40f08ddf37c": {
+      "digest": "5f156ca62ff3bbbc5680c68658ac9d315e8adc17d653fc7f010d7a8685d98c05",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.370949+00:00"
+    },
+    "0a73af1143edb9c8213a": {
+      "digest": "5acf63bf51a0dca54c86857bdb86b7a4baa9c3492656d49252209ef344a4d829",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.370994+00:00"
+    },
+    "ebf46ad9785e6de2d429": {
+      "digest": "e653e68327754abf543d11d1bb7c70c1b5edb73e2aee601f577c6c60449d457c",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.371039+00:00"
+    },
+    "98d69b6a92e5e83fc376": {
+      "digest": "c413d3b73fe6df4d033ffbbcc7d553a4c68624a9d9f64033720541032664eb10",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.371097+00:00"
+    },
+    "3b4c75f16939cf5075b8": {
+      "digest": "b4fe35f6ad4494c7a992c2492942061b4c7b395c2543e63bd00588b34acfa032",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.371146+00:00"
+    },
+    "d53e7c623701f4f7483c": {
+      "digest": "ceeacfe92f8803c9e523af97475132dc4d25875a7cc34f6114f5da9184a735d8",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.371190+00:00"
+    },
+    "72b6ecba368c0fc0cab4": {
+      "digest": "420d7c12829866a386757efe831ebfaf5e9aa523fcd41bd634de21eaaa6fe799",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.371267+00:00"
+    },
+    "1cfc0f2175923f5e8fd9": {
+      "digest": "d75fe51b0439f4e5419c8bde1a3d6e5c409a8f2647a0c64ffb963a54fc3f57c6",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.371338+00:00"
+    },
+    "af2fd0ed5aae98ee7563": {
+      "digest": "948881e966b2f0e93351f79a313d90d0dd02d71314d64be06c4b4d445f89d897",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.371386+00:00"
+    },
+    "9dfa94f4d65fc7f2fb5f": {
+      "digest": "7077bfa454f98b4051410f93b731044dbd3b66927d368574e4b043cd3ebfc4bb",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.371432+00:00"
+    },
+    "62933dc8d3ab986287e2": {
+      "digest": "fdda8f7450aa086ce357986bfda14fcbf3e89a28e87b7aa821fd8f877fc4a89a",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.371478+00:00"
+    },
+    "80dd1b6737dddd6c82dc": {
+      "digest": "12bc86a5be0be705b075cab66aa673dc91028b34317b47d96b766b35e01c13a3",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.371613+00:00"
+    },
+    "d2d09b83735a517ec461": {
+      "digest": "3a4ea445c829b8ef6da906c5679600caa348a9efbf2fa2ef4b0d775b90f39d72",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.371663+00:00"
+    },
+    "c56d396ebee382720937": {
+      "digest": "2bcf9c0efd5a38ed9e7b68115f34e19fa53ac94fa003c971fab9099aaabdfb31",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.371709+00:00"
+    },
+    "df73f26f6b764a3e9c12": {
+      "digest": "f154a58a841e36ce72016ab3e1e8626927462a41552053be40347785ca70c48f",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.371781+00:00"
+    },
+    "248434dea55bad30a4cb": {
+      "digest": "b565c4cc46c5ec84b8d2bc2e7e4a7458a4ed8a7d2f057827c6f83128cf713a70",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.371826+00:00"
+    },
+    "ab01fed88ebd1c98878c": {
+      "digest": "c3f428d8319f2e19470968dbb7779398767befe52d9fd037ea5f0f0ade8c960b",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.371870+00:00"
+    },
+    "af4e501059fa41740f18": {
+      "digest": "59c56961c78081f9dce272a62ddfd9dde1d715fd219f8900b58043ae337107b3",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.371915+00:00"
+    },
+    "03293ed3c38d57265342": {
+      "digest": "22af071cf8bc62a9ffa10a49bb1d77619f9b868600304aa6faa30e1199ed5be5",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.371960+00:00"
+    },
+    "de9763af38d014f60fb3": {
+      "digest": "75cb001974cbb97b9fd46462dba9e9f828070cde88af4226832f260e95b7adec",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.372008+00:00"
+    },
+    "6a019c3bb6a44607ee9a": {
+      "digest": "f175a7308a241682fcde0b2dc519c4cf40c07029b8629c63265319d1d752c658",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.372052+00:00"
+    },
+    "044f274445fe1649e86c": {
+      "digest": "33a6ccbfc835f98d567e6dd9fb26123e03785746ab3e4696d3f6f01a0937ed18",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.372098+00:00"
+    },
+    "5b212f2f3fbb509989df": {
+      "digest": "93da56bcf92637477fcc6c9ad15c7557c8b8e1f846d5d0a8b939e837538e82c4",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.372143+00:00"
+    },
+    "675aaa7ec18e127899cf": {
+      "digest": "0da91b36651a4798d693d738273e42a1367a66732c84b14a66253c65d922a4a4",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.372188+00:00"
+    },
+    "dc863b4316197b624d0f": {
+      "digest": "7d800f7494fac4b3801f4c16971fbb1bb1964cbb6c016e7703471abc8e6b24fc",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.372234+00:00"
+    },
+    "b2185e2cff51dd3fa272": {
+      "digest": "c61cfff5254a08b872efc0b2fcc64c86d5a74a0806236fb2a288b9febb364345",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.372278+00:00"
+    },
+    "f081656fa14967a829d5": {
+      "digest": "8c1778cee5ae4a0faac7586662644bdefeac2b77975967e37a22f09ce0f7060f",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.372896+00:00"
+    },
+    "5fcaef7deb0a44b032d1": {
+      "digest": "d4a3fd97787c2fe83ee557c046364a575e9aabbdf3825a3c0b0df67964a2c252",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.372983+00:00"
+    },
+    "05970e994eca1925f0f7": {
+      "digest": "745dfa79361f740e6ece6753442b965eab415a5c53f6e3815c9a019d0b7ca2cb",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.373042+00:00"
+    },
+    "34e6ebba3e5da8939d0d": {
+      "digest": "c0b3a70d6594558ecda1cf7536994017ee67fe259c55bcadba0709d32a022f14",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.373091+00:00"
+    },
+    "31f31ee6fd7adac8cb16": {
+      "digest": "6799cdf86d4a2bd1fa3460324ef2458924efb82d78b5b6985e4f765b6cc9a9a4",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.373138+00:00"
+    },
+    "441603a5282a871d9a60": {
+      "digest": "37ca8bd71d64056c755c5f6eaf38baebfd85bcf25db9a95336f9698fa164bbaf",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.373184+00:00"
+    },
+    "c6e1f4d9f4fbe2faeda0": {
+      "digest": "f162eb12975c73bec135def2d5aabc98b4689500804284c27c961440f9820d3d",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.373230+00:00"
+    },
+    "a394182f608ba4e278ac": {
+      "digest": "6188c090d037ab045370f160a2c7fe3e8a0c7e1e6871d8fd772e7d0773cc8506",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.373278+00:00"
+    },
+    "51c0934816c1d1f82d7a": {
+      "digest": "ed5f33325869125996a08c681d5fe51ba545802698e3d357cf820575d67c60d4",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.373321+00:00"
+    },
+    "de39c9a82ee230da2b72": {
+      "digest": "53ef075b1cba870e58f1c03073efb57dbc21cf7b92cc26317e49f150e6214f64",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.373371+00:00"
+    },
+    "e0055ff712253060ba19": {
+      "digest": "b66c07d76fa595d7ee932521b1bb0430f7f5ed7c2eeb2fc31e5aff4fcb48889f",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.373419+00:00"
+    },
+    "5dbd992012a07f2ecf1b": {
+      "digest": "6a2b38b6ac806a417b366abd9c03ea3baa1fbd96e84b7f90c0f56f208343c97e",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.373465+00:00"
+    },
+    "bf99e3eb423da6b486f5": {
+      "digest": "5b9631b260e98dfa98883deb9528969450f32d61381259053891dfbb93c93ce6",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.373511+00:00"
+    },
+    "45c6d1a35c7dbefa4864": {
+      "digest": "05228d096abdc79a535e97c3ea99116ee1f4f6245848d5af3db7f6b84685f3b0",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.373556+00:00"
+    },
+    "9e0ec9330397a2651907": {
+      "digest": "5c46cefdc2b3649b06730d3ebc1cd039f4f6a1ed1bf78ca626ad108a845a7441",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.373602+00:00"
+    },
+    "2a28dba314e553165c30": {
+      "digest": "f1ca0c4ad861c40a6b1f00423ae1e5cf5140c6f7eea002e9b3f36bb08629ae0f",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.373646+00:00"
+    },
+    "3d9eb46a1372ddf3cc75": {
+      "digest": "c2735d8e7b1d588e99756c76a7717d1975d7b3eaf2c2484327eac3743ab0856a",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.373690+00:00"
+    },
+    "46013ea4628139285dc3": {
+      "digest": "3eee9770247ae78f38b2d69d14f770ea62ff1f10b694a3752f8e15e49ed06463",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.373774+00:00"
+    },
+    "a06977797fe3b96240f4": {
+      "digest": "93e3e8517ca45fa99524335a67fd94ebf64c1e8bb052054b8388b314bbf7e07d",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.373825+00:00"
+    },
+    "936ac9444fda4372e221": {
+      "digest": "7fc79e77fe51a029a77f928ea08ce0958566c89faf3bca133eaab3c8cf7b32bd",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.373872+00:00"
+    },
+    "83417f46186ed3e9750c": {
+      "digest": "e2fa6a815cd08e6e07121e9eaa060ad28a68080c98decab18d146245868b3539",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.373920+00:00"
+    },
+    "a1e739faf89dcea2b94a": {
+      "digest": "dbd3953a992dac9e322d28ace4d8679a388b65f5537f069737e5d483085a248d",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.373966+00:00"
+    },
+    "6938f38b7b7d8cbc2f56": {
+      "digest": "35fc2fcd1313fe5354ccad5b43764bb6d64d46bb49aaba754b31f3e68443aa60",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.374014+00:00"
+    },
+    "f4468e95ce818896bf99": {
+      "digest": "7570d9c425294d0172f337523d2f86a025ce9764d85d12f46c97ea3a550b72f2",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.374060+00:00"
+    },
+    "52b3fb8fcb25bccada59": {
+      "digest": "6a496441dce6888513f3e05ed869e92d7ab97f3615288040f3d2952e6c80e36f",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.374120+00:00"
+    },
+    "d36edbb4495bf4b499c0": {
+      "digest": "4badec102c4520fe8fc013acdad302dbb4e895da62fb1bdf1027286e5fae5ccf",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.374167+00:00"
+    },
+    "a087810baa9c2be6ed77": {
+      "digest": "6d7d7924aca0b86aba05de6e8a30391e784657dc903bc4a9948b31fed649b7d7",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.374213+00:00"
+    },
+    "b9d2c76d9fe0d9b06cb6": {
+      "digest": "cba6d5b5f06b138f5540a84c6de6f6e657b6d3e38109733da0f3089b74ed2844",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.374273+00:00"
+    },
+    "1e8ab1940e0c4865e32b": {
+      "digest": "bd264ba81c26ebb9a5b274e5acaac023708f26d28cc54134f8236715f6439b76",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.374321+00:00"
+    },
+    "b2ad42a836426b615364": {
+      "digest": "09c3f726dde0867d437861fe23c5d5beb1eddcd6f16854f4b30633513e531846",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.374366+00:00"
+    },
+    "3e22667f1772eb446e7f": {
+      "digest": "7fe6184e4fee89d25cff4adb9e33aa67ebf403591df3c7726a8c5203535a817d",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.374412+00:00"
+    },
+    "e4b9fb4029128d81078e": {
+      "digest": "c753cf9c4a324f840ffe429dd809518cba4e82074d6d698b2f09b568720d40ae",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.374511+00:00"
+    },
+    "ad46c5cb68edfaf8e690": {
+      "digest": "878613089fe8b8d59af40100b598c9ca793b6650ab06884ff7fad503f8e45e69",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.374562+00:00"
+    },
+    "c2a4751bf78f968e7f14": {
+      "digest": "174aafa1c1d056e395fe4630682c579368c6cd21d5d779eca906a07d60d85cd6",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.374608+00:00"
+    },
+    "7e1af1cef7bc4c43e1cd": {
+      "digest": "288de77cc8d13e9dd2c4106f464e5605f7139e92655bf044a1ec72b3ca525c05",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.374654+00:00"
+    },
+    "a2cbc6f080516986a4bb": {
+      "digest": "027848333c95f30e6544968e1bd54463b4e01813e3f10cc76f1c27d6a00f6476",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.374699+00:00"
+    },
+    "d6a42c2a739835406d17": {
+      "digest": "9ea4fb38368a83854f98550b6b0d6b99981fdfe1c7f029c2df2164bd1ac0c840",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.374767+00:00"
+    },
+    "694c9f679d533c9d93d9": {
+      "digest": "b1f9073d018dc234a5f7cc507afcdf68ee498bb943d641a6d017a7ea20c8217e",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.374815+00:00"
+    },
+    "93f41050c74c729b4679": {
+      "digest": "13b49d27f51f02640620d0a496711c7fc2d4e10b2c0b2449780978bb95cce96f",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.374859+00:00"
+    },
+    "e4ba9d37207c19154303": {
+      "digest": "5398caad42dbee4afb210c7ffc3b68c776ad61d45bc75e71d8dab612299fb174",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.374904+00:00"
+    },
+    "358420e9db0be430a9d7": {
+      "digest": "4fe6174faa5d11b2ac61b8d05d6526fffe69f6b7ed09fa6a65813c6127b84ba4",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.374949+00:00"
+    },
+    "bb1ae30fa856ac5fa8d3": {
+      "digest": "1a25d516059efab5d9fc482b4518ef03c83a8bab9afb31e9973a5314594e42ba",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.374993+00:00"
+    },
+    "b7a4b00daa0adfb30155": {
+      "digest": "50eead761c343c2cf69065c63c0489e212a81cbeec888c023ff92170ac2fd4b2",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.375038+00:00"
+    },
+    "7b84a85166b9e1e248f0": {
+      "digest": "4e4b090ad58843090dc7ea70dc4e95943217d2a91094d82130657fcc3c94dd60",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.375083+00:00"
+    },
+    "4060276b806035679f74": {
+      "digest": "624401cf4110dda8b9fdcd066341d6e2d2e9fac69306852228349aa58d2571e7",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.375128+00:00"
+    },
+    "9fc97dd1a4701061065e": {
+      "digest": "5d838e98f5361e3faecbc23c3b8f89042658445fc7377ae596b94876f7690144",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.375173+00:00"
+    },
+    "c95b8e5995b6f1943a79": {
+      "digest": "b163c7a66a61f9cc1cc84772131eae0ad58af79828cdaed5a0582ddf8d5f03e3",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.375218+00:00"
+    },
+    "36aa2c3386c8498b6289": {
+      "digest": "fe2dddba1d969e30d5540f7d4465189cf933518e323bebc9cac4bf96727c0881",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.375294+00:00"
+    },
+    "2d5c28c1545b07fc86fd": {
+      "digest": "1d0a8c896d1ca13434f6819154285c43ff053b829b6f2e53547f7fe24fc1bf0c",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.375443+00:00"
+    },
+    "e593402f8ea050d4beec": {
+      "digest": "71271d9c81ff568929dc46ac5a030e4f14846c56af59877dfabb1caf85d53008",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.375491+00:00"
+    },
+    "1722ab48efd0d1b6aa9c": {
+      "digest": "3a24a3ed27993a55b4d68b5587cfbb5aa6c8b5d39254f133cc14e5d63077b96a",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.375549+00:00"
+    },
+    "27b0e2b800a4ca1e53e7": {
+      "digest": "0ae59981ac9c433b641301ca008941ec1e2ce0d793fcfe4a0e0413f5bb874c51",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.375596+00:00"
+    },
+    "7539e3c1ba4241693e24": {
+      "digest": "c2e31d9ef4def98da078547dfbe5cee341da577bc91c8bad21a7d5c4a4fe6128",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.375641+00:00"
+    },
+    "9eceb2f0f56690fc4a8d": {
+      "digest": "3906db25fb02d5531b93fb163db0c65a72ab16b9caa038f27d94e2796f63a526",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.375684+00:00"
+    },
+    "3fab8d105b5df511b0ed": {
+      "digest": "912fa4cd8f2ccd4aec52f973b83507ff31750509312728faefa8c3abc5330509",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.375767+00:00"
+    },
+    "40d144b1c84d56550b9c": {
+      "digest": "b49e0eec1728eb5c7b0eb3205dd69408ebb432acf33d055eff8d2656bfb68a8d",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.375819+00:00"
+    },
+    "233ee79664737ad4a5cb": {
+      "digest": "d97dbf041c45563d08ac4105552894d697d52f647ed2fe16b37fb45f5bd054e3",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.375867+00:00"
+    },
+    "428803227b2db2f7ffd3": {
+      "digest": "b42037a7b6be20708104b03de99308c47f23db59139ed0d5694a4cf8c6150c74",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.375912+00:00"
+    },
+    "4b5fccd289b5f71c9c81": {
+      "digest": "0a0902e45873fdc2029668ab9a3d6ba128b79f35121bbb193ebddbe87ec4fa10",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.375958+00:00"
+    },
+    "165ba4e7f43f7b525cc7": {
+      "digest": "a2049ee2a65aa3df70cac559a5f3de7d838ad30a8ed54bad442b3b2b04fb07c9",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.376005+00:00"
+    },
+    "817ac0341dd87e8d963a": {
+      "digest": "c05bb67323cc3cb14c83453e6ddd5690f81cd7d1257b6ee6e741362911f63f40",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.376052+00:00"
+    },
+    "165ee1161dc6129092b2": {
+      "digest": "5c1b55c31831a0dbc9857827ee31c3e76de17dbfab72fb10e7caf35ca1429e02",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.376099+00:00"
+    },
+    "076ded367d441d24f289": {
+      "digest": "ee53c8b1d94d54bfea0ee1e2feb93c8064435c8c79733b1de8dcd544e99351dd",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.376145+00:00"
+    },
+    "c6237c96f80900b1e8e4": {
+      "digest": "25bf4602ba0d54e3a199176f28892d3776c264b05dc60d59d276506cf247913e",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.376190+00:00"
+    },
+    "d4497bf17275aefa6db5": {
+      "digest": "b0d1e6ea48d9918528bf9bd1961e4b1dfeb093a5c498befb6b3dea3d13b19825",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.376234+00:00"
+    },
+    "6fe1aa0301142546bec6": {
+      "digest": "4a78be71fb792a9209d604a76e4b845a4d2d5dd6aeb63dd00bb1eb1933f6c991",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.376281+00:00"
+    },
+    "40dddc3340b936abb47f": {
+      "digest": "bd4fcf7d7452e9e7694fb6d5b327a0bef22d5e39fb59790277cbad51d485411f",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.376326+00:00"
+    },
+    "7315ab5e2cab5f139f66": {
+      "digest": "ab6c2df3a0748cd165c6c1819ef435f7eb78feaa1941e76a4a2466e335345938",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.376370+00:00"
+    },
+    "22a093c956ae69e056d5": {
+      "digest": "996697b98dbe548d7ae14dbb14e5d6a9c2e86ee5c4d895363e153e66707ad220",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.376414+00:00"
+    },
+    "effb8f67c190a9c60e1b": {
+      "digest": "5e054254848ad8925176dcb7fd591277659eca2ba9312c4291b59a1f04d60512",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.376459+00:00"
+    },
+    "35e423333e4767add938": {
+      "digest": "392424ece2529f7e17b6f3823c9e1aca5356b648003b4ace92e45b0940900c64",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.376613+00:00"
+    },
+    "a4287aaeea404207f7b9": {
+      "digest": "cf919c6c1248fca52bfe5176e7652d54d4c1aa5c09d2529ec2a6a0073d7992af",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.376664+00:00"
+    },
+    "2f7b75d212b394ea5a35": {
+      "digest": "04ebc8dbaa911fb99508d93d9ecc424a1ebb0ae52513faca46596dfe8ed92618",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.376711+00:00"
+    },
+    "1252fa8ab0ee33bbb7a5": {
+      "digest": "d3dc600e4be51514869d60032a37bab995a7255275daf3fa81712f34096c9209",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.376791+00:00"
+    },
+    "71d74bd9a0d3154ba9c6": {
+      "digest": "33317c689bbfe6e479ddf4fc46a8462cdc39fa912e673689d45929d9afade8df",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.376837+00:00"
+    },
+    "efb5cd099c48007ea080": {
+      "digest": "52c8247673357f05237e0aa92ac3996e61b84371a963686b5a04e78e80eb9f69",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.376883+00:00"
+    },
+    "14e35889d563d4e123f2": {
+      "digest": "8614d3d848e7fc5df8e0b1b3f6cf83b1c98ebd7647585d0f84fff9a5bb218ae3",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.376929+00:00"
+    },
+    "5102ab8d5d8c8e7e6db7": {
+      "digest": "18af51dd00c1fde01e8cd05ff8a6f81d50c9b09338825db2c694789ba8bc7ee3",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.376974+00:00"
+    },
+    "036edc6d802514144d07": {
+      "digest": "b353c8a5fc8cc3642424c4347e86a8f9ef6fe48fd2d73cf0b675b20193689818",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.377019+00:00"
+    },
+    "200e90ed65bb8d4df3c8": {
+      "digest": "650edfad20e615e010baeadd6d0cb2aae1733727bb5d2b57815604f32b22bee4",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.377065+00:00"
+    },
+    "262b0af1e5d359b00184": {
+      "digest": "46aab668a82416e711ca35a016853b9ff86b39738c014efec79379c5837e4c72",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.377111+00:00"
+    },
+    "c9af89c2bbe495ea5681": {
+      "digest": "ec01f13072ce85357bd0f34d3a0398596b46d3bd691534edc2d3bebb8048dc3f",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.377157+00:00"
+    },
+    "1c7550d5ec14beaa8473": {
+      "digest": "7154cf0b92f964e9feec438ce5367290abfe41268b4ebae880b7f3878f9bd278",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.377202+00:00"
+    },
+    "043a64503dd4557a92b5": {
+      "digest": "9fba706becf019722715063fd252b5db4ddc3f659f71b48779c744ae4f2ea09b",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.377245+00:00"
+    },
+    "044e38a5cdbe97f23903": {
+      "digest": "af3a0b12dbd7ff813167fc448bebea8f2092754dc3775b8dc6beea5e673d4483",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.377291+00:00"
+    },
+    "faa29804a410b7d3c564": {
+      "digest": "e787beaa2c5fb69b2c7a491db7920fa7ffde78c2b93d3171c23a032eb2fea5c8",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.377334+00:00"
+    },
+    "8680716d80582113d918": {
+      "digest": "e57cae4a8b7b37ae560480408da8b034c18b2c4ac2c3c388ebc7eab299c9d27c",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.377378+00:00"
+    },
+    "0be12fff9fa4d05e0774": {
+      "digest": "e4f7c15dc66fa87a22e120aeb127bb8f2cb44f391c1ad1b7c1568a66911454c7",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.377425+00:00"
+    },
+    "0cf43aa07b8a33f30f43": {
+      "digest": "b6571f87393b25e9e4a7035fcbbb31ba9eddd65557aacc7474d7df025b4cc3cd",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.377470+00:00"
+    },
+    "eb15118fab7d09b6bd21": {
+      "digest": "ad7d62cf6e8acb3b88b75f71171da34c5fdfe0726c630eba07273fb3ddd0e171",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.377514+00:00"
+    },
+    "ca1a3253cd3ee98da058": {
+      "digest": "097332d133acbbe91667a511c849d5ad93faada473db7b3f57252e0402f55d76",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.377560+00:00"
+    },
+    "bc4bd0ea7a88598beec6": {
+      "digest": "797b16109f123033528dc25333a30b2ca14a1e958df78658c8955388257347ab",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.377605+00:00"
+    },
+    "1b0cb965d7532ba99fcd": {
+      "digest": "30635c6482ce34dce5d75862a850daec7e98cfd5614d0e8577e5abc645934f1e",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.377650+00:00"
+    },
+    "f84e0511370fa6e7e0df": {
+      "digest": "31eb809bb3e61a0d171af86f4d11e257b196cb0f6a2ce95627f1b3bbb02331e0",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.377695+00:00"
+    },
+    "36ef806416599094ae8d": {
+      "digest": "d7bf792092d0dd9b950be5477ddf6f61139dc65deb7c51bb2271be771ca14375",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.377763+00:00"
+    },
+    "9ac26f62d7cb5daeebf2": {
+      "digest": "832e5f96ff032dd367b9736f03574d349e4f4163f2f7cd6bb48f2b134037fa07",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.377811+00:00"
+    },
+    "697e1b8e7e2d112c59b5": {
+      "digest": "22cc7824585492faf8610933bd5337714bb5b072d5a1cdb6f97158a2aca32617",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.377857+00:00"
+    },
+    "2860b02bf6dd529ca7f4": {
+      "digest": "af51da837f343959cf1cd8cbfaace68f5de90587fad33a10b86b50ece55330ea",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.377901+00:00"
+    },
+    "6fdf9f5a6902c38450b0": {
+      "digest": "5de7160773e3aa8dfb75410dd4ec23a04aabde823276dea6355aebbf5277f56f",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.377948+00:00"
+    },
+    "6adc249b5aeec0feff6f": {
+      "digest": "87015ab5426482a1c14db34fb42ef884209489f891188a4f2058fb0f2b5c985d",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.377991+00:00"
+    },
+    "ed4614593fb04127569e": {
+      "digest": "395db1a8709e6e93563fff6933dedf68750d92af82fb380c47cf7abc494cc9b6",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.378036+00:00"
+    },
+    "ac6e981257ad08068439": {
+      "digest": "bb8bcb45ba621ead08428d9a7af0a8018e43d36c3b89cc3f1760d5bbac2074c7",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.378081+00:00"
+    },
+    "bbeea50a24d0521b41fd": {
+      "digest": "9bf23ca9dc6a38429d4b5d8659378505cf75ec51304e97ccd1176d81770b63ab",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.378127+00:00"
+    },
+    "04eaa87c5b484050a364": {
+      "digest": "114c28ff256d24e587c270c75c5b7141f4e1ef345df6875a51356fb8cb888149",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.378173+00:00"
+    },
+    "520f353d851ba5675f1f": {
+      "digest": "226d43c2ba7dfc7710e2343da309e7e96bd2a89b15d3ac6a6d03e1433bb7201b",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.378216+00:00"
+    },
+    "f046251e50fa9d947c05": {
+      "digest": "f790eaa51a9f9e55e574072cf4e7f0afe0fe13e7741f380ae2ecda9bc8e6048b",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.378262+00:00"
+    },
+    "c477532a13202e46d22a": {
+      "digest": "e6a07d6e77d891b65fdce8189f3febc81f1bbc42dc92d1a4f13d7879849a3c65",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.378308+00:00"
+    },
+    "7cc35a25582d19b12eb4": {
+      "digest": "650d73dcb7b8f4880ce805d889c985a6b2473ab9cb8f2f495c7183651c43620b",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.378353+00:00"
+    },
+    "8ad74fa9522594ae636b": {
+      "digest": "23e8dac4e0b74bf6c2991ba8123b06e08558a751529abc2da85661b72dc1ebbc",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.378397+00:00"
+    },
+    "84ec4ff5fb73fe65be6e": {
+      "digest": "f38498dda36009bb5abeaa27b0a8a2ab2f18a13c934469f7cc42881d0fded649",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.378441+00:00"
+    },
+    "8b5479be797bc6948039": {
+      "digest": "2ab9d3f267dda5f512c38df946d1f6767e03dcde5849a8b05e68da499b0470d0",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.378486+00:00"
+    },
+    "1c97a44f5d2b70506fae": {
+      "digest": "4ad768e017147b6a2e539b5ad0c0015d6e5cd4e0f9afb5cb1c03aaf1750ca645",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.378531+00:00"
+    },
+    "5c0ffe85a0b9eb14ff37": {
+      "digest": "dfd37ab16a61cc6792bb8fa07a5aa40d8338829d06ae11ddd6657725afb9bd83",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.378577+00:00"
+    },
+    "8bf5de1d3864b05168bc": {
+      "digest": "29f5ed9f83a58062cbbb12bd971ed83a01bd1db3a2701b9f6e065e1b7ff88fbc",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.378624+00:00"
+    },
+    "018cc82c03ecaa709d1f": {
+      "digest": "a309106c7784d11316befa447f6b0d158adffac39363bd666b4c8f5e92956dd0",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.378673+00:00"
+    },
+    "28a44185dee49c1ef797": {
+      "digest": "887c2da666dcde968e1df50ea3400f2d0b2efa0637f93508521ed14090b65c50",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.378737+00:00"
+    },
+    "073e4cda3941b47f674e": {
+      "digest": "15c79243140d7757006b86d5147eedf28d7183e082af5c3ec68be723fdb0485c",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.378786+00:00"
+    },
+    "b05e8ab364286ef0e42f": {
+      "digest": "7eb1c985ceb2b34f707861d296d05bf2378c005e47aaf884dda611ecedf89e12",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.378831+00:00"
+    },
+    "ff508f7f8eec0a3a1706": {
+      "digest": "653953eb7ac41e050b68ec41a09a891e3ce276f135294e1f358464609c73809b",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.378876+00:00"
+    },
+    "3cc4585e1e740ddd9b44": {
+      "digest": "16a267282b0f58e47c37369289ecad11fe347939636bfba336be5558102e8982",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.378932+00:00"
+    },
+    "7ef02a461ca9cdc547d0": {
+      "digest": "a0a18035ca87e4de8b7266d62c0b5bacd0357ed0882c5f34eca7c649e1303fe5",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.378985+00:00"
+    },
+    "d5a1286bce3a11a6c01a": {
+      "digest": "391a4cdd02cdb677221a70989f016a1469c21cdbaf778f041d79e2755e172f9b",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.379032+00:00"
+    },
+    "7e7cfa6ad23c4fab07c2": {
+      "digest": "b7f668f2b4947ee093adc7cb54734824920d0a64f1be90cac2b28a435a807bf0",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.379080+00:00"
+    },
+    "b7ecc2621e160d05c976": {
+      "digest": "4b4ff454758cf2504ea7ca3c1efb174f7ae119a3cf89f8239dd897a413858132",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.379125+00:00"
+    },
+    "2aa9ed184b028a106e72": {
+      "digest": "888fdf192ffbd888ae43fb4178fb39055469b3b16fc506e408a5affc6b9804aa",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.379171+00:00"
+    },
+    "ad0e84af486090f73e61": {
+      "digest": "ca1c4a456408bd0f17684ba76a59946f67589c48ee6222a48f51f5cc6e61ba68",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.379217+00:00"
+    },
+    "a1824c66e4acb67a1421": {
+      "digest": "df47391352827e4189ec36471a94c9f75c5832baddd3877676f7fe1f1e18c378",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.379292+00:00"
+    },
+    "49e214ce0959907ba629": {
+      "digest": "8877a69f48fb27fab3153ef75c388dbb39bbed67c2c7d32296b5f91ee597b767",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.379359+00:00"
+    },
+    "56493e82d71c7129befb": {
+      "digest": "4cd6a1401d92fc40494611a6b261e40b4ca040cc925da5ed74802c188aa3ad22",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.379408+00:00"
+    },
+    "1512770331d29cd43b3e": {
+      "digest": "ca3d5e195484a879cc9e6a5dd5b0779b6dbb9a9e3d8f2a41385b58617c4f6d12",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.379458+00:00"
+    },
+    "e7a79f4dfba0edc41187": {
+      "digest": "1c1d48975c8632807aaea77020a6944d208bee52267ce27d1ae6a1296ea6b0b6",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.379504+00:00"
+    },
+    "241e59559ed854131417": {
+      "digest": "3b47184894710f39af6e310e0d10ea23832c9d81c905d6c6c9f304db644d7bfa",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.379551+00:00"
+    },
+    "77ae276dd55679d322dc": {
+      "digest": "ba18598c92e8743944e081bc5974bd2708d906379fa53ba024e4762ca950f247",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.379599+00:00"
+    },
+    "90c1bb4854a904f571e7": {
+      "digest": "54b07af4cdb4c12b851621e821e22c96add5998a6540810c1a75fc7402b1fd9e",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.379891+00:00"
+    },
+    "a1c421ea77cb250e1007": {
+      "digest": "e8fbbb7a8522a46c662c51849fe820e5d3a705f2ef072dd722b7bf86898fd5ae",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.379948+00:00"
+    },
+    "3eb0f9053b8a65e61101": {
+      "digest": "34f66880c684496bcacc65d37d1daf7ffebdf2557bb6bfcc6820b9140aa9e3ff",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.379997+00:00"
+    },
+    "a513682a2e5486bb9ae9": {
+      "digest": "05b5f74833d66aba40764e7ede50700ad773b521375a1e83c8850d5091c1c5d7",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.380046+00:00"
+    },
+    "9fe05ad9af338f515d8d": {
+      "digest": "1c3c132e353beec090a5b501115d1f75f132fa88f545189a186e269a936e80a6",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.380094+00:00"
+    },
+    "12ff7115422159035044": {
+      "digest": "f13c5b47c0d2a9d93bd002b12f55e5de898e9bed2aa62e75b4ac23021c2265af",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.380141+00:00"
+    },
+    "dc545bf17fb18c603961": {
+      "digest": "211f107166ed23862ea218ec1ec19f9036d8db3189615210d99b8cd2f2b8db72",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.380188+00:00"
+    },
+    "540c6a65c1e83835e7e1": {
+      "digest": "65e70dc2dbacf9696aed9564d2a81010fb043e74541810b944fdb3f9718718ba",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.380235+00:00"
+    },
+    "909c6a0f00d271dfb069": {
+      "digest": "71ec039e9ee32c3e1ffad03ad59f908fcf88286d20a2e4f9c80fd855f8cdc70d",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.380281+00:00"
+    },
+    "97ce90ef48fa81809bac": {
+      "digest": "9fdf87ef4af499a5f02ad1bd2f159f5aa4b6094336d61f311a70bd6ea8950400",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.380385+00:00"
+    },
+    "333068828eb8be80c886": {
+      "digest": "c875cb866a7b954b65465f405dcabab21b4d6eb9154a39fe8da7c7e16da49aa3",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.380441+00:00"
+    },
+    "7bae4feb83c3161a9969": {
+      "digest": "95df520fc9d3f9c2c5d6fa2431061daa6c397b4bee171c8a059620dbb855d785",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.380488+00:00"
+    },
+    "502100246d35ec58b99d": {
+      "digest": "1033c905dbd47128aad18e14c5b3e88aa11af569be4d04ea741d3a5e8a72a106",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.380535+00:00"
+    },
+    "b7a57ce9626f7603ef4d": {
+      "digest": "c217a6dc6783ab6adbcca595d28d7a1538946506c65bcf077d4c023cf37e4824",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.380581+00:00"
+    },
+    "5ce027ac89d187267e30": {
+      "digest": "db40b098c261eeddbd091fbea48b38c7f9b2b6f97d71781912dc16e154d975cc",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.380626+00:00"
+    },
+    "7e12f969bd4bc90beff2": {
+      "digest": "a88908780589334ff0d2205d30af714a2a66a8d5f5339ce9766ca1564fdd104d",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.380669+00:00"
+    },
+    "f42e635306907bb53e10": {
+      "digest": "391a3334ed79c4fb156d2d2b0a057cfbe18437384d7a62bf1d603bf125df92c0",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.380733+00:00"
+    },
+    "a2c116be3e1126dcb90f": {
+      "digest": "41b81e8463d628b33acdd6fb83782d3ff5daf9f08a9ddd53993ba44b5b15c00c",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.380782+00:00"
+    },
+    "7619088ace0a32fdd011": {
+      "digest": "0501fb4828b0c24d35edfaafee8e7c82a995970cab18852b0f10fc8a5fac53f4",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.380829+00:00"
+    },
+    "3c6bc55632a40eaf04e5": {
+      "digest": "e0ee98eb8d5b256e4035c1b976c00d76fddaa08d3ed6cc4758f42be1ec874db2",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.380873+00:00"
+    },
+    "866de87e806504c7dd97": {
+      "digest": "ae126ca0c8bf804f9028dd80f3fe7feef772d12de81a6d02f29865ae581b561b",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.380921+00:00"
+    },
+    "fa8bc1887ecbde23a65d": {
+      "digest": "744901f57ff12f21c175c6506da3e65193561b525ee784bf754160b4acc9a19d",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.380966+00:00"
+    },
+    "993f9daeb7a55a50e6f4": {
+      "digest": "0afaf3af2aaa495707097321b55d046e654e67e5234c6fb7a392db66a783f174",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.381018+00:00"
+    },
+    "2b494a7f3aaa06e2b917": {
+      "digest": "9a0f5d3ef76bebd5540e618709c4bb6153ce9b0f5b93631f1cf0ee94746c526e",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.381065+00:00"
+    },
+    "6516a44d008eb4542fb2": {
+      "digest": "b52f0fb742f42f2694b2f12560e728f066861553fcbedb4e424b1017303d64d7",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.381113+00:00"
+    },
+    "3272a13eef6d45725760": {
+      "digest": "3de7856db8a5d0ada85c2d80a34ec6cc067484ffd9c810a48985e6fa3e1b572c",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.381161+00:00"
+    },
+    "fcbec695729944cace0a": {
+      "digest": "9c833af5b29813804adb61e3a4dc8dd4b4351d3020217a75bfc5c9bcf8977e8f",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.381207+00:00"
+    },
+    "ec3d992d650efb94c65e": {
+      "digest": "52a4eade6c121f0526779f2e8522dc17e11d085f5e6db07cec01c14628289362",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.381255+00:00"
+    },
+    "4a1b431fadad89467ff4": {
+      "digest": "2b3b7d8da07b30790afb914d82d4b834c66322573f027e57fb2853ac193d1e4f",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.381302+00:00"
+    },
+    "04d75d03bd7388a34cc0": {
+      "digest": "acfe30c5b9f8fceff4dbd564e0b1ddb022e7a7eb38b308ed556d44be2525b828",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.381347+00:00"
+    },
+    "87defed14f76cdea6b9c": {
+      "digest": "15bbc3163d82d698f4129fa537cbfcdedfbaf573f0d250407c7482bb30c1c55f",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.381395+00:00"
+    },
+    "769adbc2e7065c3e46f2": {
+      "digest": "a7a94ee2663297f9c84a5f652e05f1bfb6527dcaee86a9ec1a4696ddd87dd055",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.381443+00:00"
+    },
+    "1e425a53631a4a64afcd": {
+      "digest": "b4404078b6c0599990a625a2aa900305daef4894e5f1647a5d10f1512b7da833",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.381489+00:00"
+    },
+    "d0487e5b0e2a94037512": {
+      "digest": "be5263c414b370593c82e82872c01aced8b64ece6534047b91e2fb58a8d439d8",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.381537+00:00"
+    },
+    "6b2d926eb8413b681000": {
+      "digest": "d55a6d86ee1fb71887887522c86ed05a63184bd1f1d7dfe8650a7d4509c7bb8d",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.381585+00:00"
+    },
+    "c000cff149b891f3cd57": {
+      "digest": "428711eab869bcebff0949b3d3735945ddd0f72c160aa69a73169a93bc32b22e",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.381631+00:00"
+    },
+    "239c931d0e90f98793bf": {
+      "digest": "fd174995bc7d187f9167c97f72a0f35d051685cc4bd843726e16e30f3a4d52a6",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.381679+00:00"
+    },
+    "3a3d9363924e91c87d48": {
+      "digest": "f94bf931f0cf87656ab07784d67ee419dd191446f3a3015e5548dddf61b8e05d",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.381753+00:00"
+    },
+    "402f6e6d667238076774": {
+      "digest": "2bf3cf18377dba4539e3f3e3bb8966a109592d8db4c425a1d2b21d6aa567785a",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.381800+00:00"
+    },
+    "815b16252686abd70cd2": {
+      "digest": "8015466b89a7dc4f61ef50b2547b364ab9aa2866ed88b456b47ac8c74c997642",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.381846+00:00"
+    },
+    "9c2f0cff153490ec65aa": {
+      "digest": "143b337c65ef52e5caf92edca7384c995919642aae73a5343459a14e2e330f1c",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.381894+00:00"
+    },
+    "6353553d040e6be54fff": {
+      "digest": "e4c86870a97f6db74253aab6f807a0014b49cb04db14b1cccc59bf5e2c0e04da",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.381940+00:00"
+    },
+    "14c3a67df91387e1b225": {
+      "digest": "c8b35b9dc49c0b2c9d9bac814b455f237130d357ebd6dc0cdc0c239558d68420",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.381989+00:00"
+    },
+    "9c9eee75d7389547e8e9": {
+      "digest": "72232088153129ec416f0679e98a5ea81ec03a8e65adeb434aa80f1c7a8659c4",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.382036+00:00"
+    },
+    "8d4c41375104ff2aa38c": {
+      "digest": "cfdb8374743397a13722a05e7ee03d8fd4f5857b44b1473a4bb5bce90f7250a6",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.382395+00:00"
+    },
+    "e9c117d288a5b6b967ab": {
+      "digest": "5d38c26dcada884006013c7893126742408159907389cf89f4d1df163410784d",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.382461+00:00"
+    },
+    "554d1062d2f293102269": {
+      "digest": "ce025bc61c83aceaed3837ebefbc1482042a79a0686a425b486e9b2b4944b390",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.382512+00:00"
+    },
+    "d5e84d67c00556fd4546": {
+      "digest": "80778c13496442edd3b1e22663bea8801afa8c91389600282f81804797faa19c",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.382560+00:00"
+    },
+    "6be6e82687efad502bbb": {
+      "digest": "71b3ee3abfe3586950080afeccbbf888ed127c62e2ff901daf2662916bfaaa22",
+      "reviewer": "Codex: official original table extraction and merged-label review; Akita appended scanned cells checked against source images; Tohoku full scores only",
+      "at": "2026-11-18T10:50:34.382607+00:00"
     }
   }
 }

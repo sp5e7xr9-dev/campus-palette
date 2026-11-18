@@ -1,4 +1,343 @@
 [
- {"id":"niigata","name":"新潟大学","kana":"にいがただいがく","short":"新大","region":"新潟県 / 甲信越","officialUrl":"https://www.niigata-u.ac.jp/","resultUrl":"https://www.niigata-u.ac.jp/admissions/data/","policyUrl":"https://www.niigata-u.ac.jp/sitepolicy/","parser":"niigata","note":"合格点の募集単位と人数の集計単位が異なる場合は分けて表示しています。総合点は推測しません。","documents":{"2024":{"book":"https://www.niigata-u.ac.jp/wp-content/uploads/2024/07/databook_2025.pdf"},"2025":{"book":"https://www.niigata-u.ac.jp/wp-content/uploads/2025/06/databook_2026.pdf"},"2026":{"book":"https://www.niigata-u.ac.jp/wp-content/uploads/2026/06/databook_2027.pdf"}}},
- {"id":"saitama","name":"埼玉大学","kana":"さいたまだいがく","short":"埼大","region":"埼玉県 / 関東","officialUrl":"https://www.saitama-u.ac.jp/","resultUrl":"https://www.saitama-u.ac.jp/entrance/exam_info/result/","policyUrl":"https://www.saitama-u.ac.jp/about/","parser":"saitama","note":"一般選抜の総合点と人数を収録。教育学部の改組等で名称が変わった募集単位は年度をまたいで統合していません。","documents":{"2024":{"scores":"https://www.saitama-u.ac.jp/entrance/exam_info/result/r6heikin.pdf","admissions":"https://www.saitama-u.ac.jp/entrance/exam_info/result/r6ippan.pdf"},"2025":{"scores":"https://www.saitama-u.ac.jp/entrance/exam_info/result/r7heikin.pdf","admissions":"https://www.saitama-u.ac.jp/entrance/exam_info/result/r7ippan.pdf"},"2026":{"scores":"https://www.saitama-u.ac.jp/entrance/exam_info/result/r8heikin.pdf","admissions":"https://www.saitama-u.ac.jp/entrance/exam_info/result/r8ippan.pdf"}}}
+  {
+    "id": "niigata",
+    "name": "新潟大学",
+    "kana": "にいがただいがく",
+    "short": "新大",
+    "region": "新潟県 / 甲信越",
+    "officialUrl": "https://www.niigata-u.ac.jp/",
+    "resultUrl": "https://www.niigata-u.ac.jp/admissions/data/",
+    "policyUrl": "https://www.niigata-u.ac.jp/sitepolicy/",
+    "parser": "niigata",
+    "note": "合格点の募集単位と人数の集計単位が異なる場合は分けて表示しています。総合点は推測しません。",
+    "documents": {
+      "2024": {
+        "book": "https://www.niigata-u.ac.jp/wp-content/uploads/2024/07/databook_2025.pdf"
+      },
+      "2025": {
+        "book": "https://www.niigata-u.ac.jp/wp-content/uploads/2025/06/databook_2026.pdf"
+      },
+      "2026": {
+        "book": "https://www.niigata-u.ac.jp/wp-content/uploads/2026/06/databook_2027.pdf"
+      }
+    },
+    "type": "国立大学"
+  },
+  {
+    "id": "saitama",
+    "name": "埼玉大学",
+    "kana": "さいたまだいがく",
+    "short": "埼大",
+    "region": "埼玉県 / 関東",
+    "officialUrl": "https://www.saitama-u.ac.jp/",
+    "resultUrl": "https://www.saitama-u.ac.jp/entrance/exam_info/result/",
+    "policyUrl": "https://www.saitama-u.ac.jp/about/",
+    "parser": "saitama",
+    "note": "一般選抜の総合点と人数を収録。教育学部の改組等で名称が変わった募集単位は年度をまたいで統合していません。",
+    "documents": {
+      "2024": {
+        "scores": "https://www.saitama-u.ac.jp/entrance/exam_info/result/r6heikin.pdf",
+        "admissions": "https://www.saitama-u.ac.jp/entrance/exam_info/result/r6ippan.pdf"
+      },
+      "2025": {
+        "scores": "https://www.saitama-u.ac.jp/entrance/exam_info/result/r7heikin.pdf",
+        "admissions": "https://www.saitama-u.ac.jp/entrance/exam_info/result/r7ippan.pdf"
+      },
+      "2026": {
+        "scores": "https://www.saitama-u.ac.jp/entrance/exam_info/result/r8heikin.pdf",
+        "admissions": "https://www.saitama-u.ac.jp/entrance/exam_info/result/r8ippan.pdf"
+      }
+    },
+    "type": "国立大学"
+  },
+  {
+    "id": "hirosaki",
+    "name": "弘前大学",
+    "kana": "ひろさきだいがく",
+    "short": "弘大",
+    "region": "青森県 / 東北",
+    "officialUrl": "https://nyushi.hirosaki-u.ac.jp/",
+    "resultUrl": "https://nyushi.hirosaki-u.ac.jp/",
+    "policyUrl": "https://www.hirosaki-u.ac.jp/sitepolicy/",
+    "parser": "hirosaki",
+    "format": "pdf",
+    "type": "国立大学",
+    "defaultTab": "total",
+    "note": "2024〜2026年度の一般選抜得点。共通テスト平均は傾斜配点前。2024年度は900点、2025年度以降は人文社会科学部900点・その他1000点満点。追加合格者を除外。",
+    "documents": {
+      "2026": {
+        "scores": "https://nyushi.hirosaki-u.ac.jp/wp-content/uploads/2026/05/R8_gk_result.pdf"
+      },
+      "2024": {
+        "scores": "https://nyushi.hirosaki-u.ac.jp/wp-content/uploads/2024/04/R6_gk_result.pdf"
+      },
+      "2025": {
+        "scores": "https://nyushi.hirosaki-u.ac.jp/wp-content/uploads/2025/04/R7_gk_result.pdf"
+      }
+    }
+  },
+  {
+    "id": "miyagi",
+    "name": "宮城大学",
+    "kana": "みやぎだいがく",
+    "short": "宮城大",
+    "region": "宮城県 / 東北",
+    "officialUrl": "https://www.myu.ac.jp/",
+    "resultUrl": "https://www.myu.ac.jp/admissions/statistics/",
+    "policyUrl": "https://www.myu.ac.jp/",
+    "parser": "miyagi",
+    "format": "html",
+    "type": "公立大学",
+    "defaultTab": "common",
+    "note": "2026年度の一般選抜を学群単位で収録。学科・学類別の数値と総合点はこの表にありません。調査書等も総合的に判定されます。2024・2025年度は未収録。",
+    "documents": {
+      "2026": {
+        "scores": "https://www.myu.ac.jp/admissions/statistics/"
+      }
+    }
+  },
+  {
+    "id": "tmu",
+    "name": "東京都立大学",
+    "kana": "とうきょうとりつだいがく",
+    "short": "都立大",
+    "region": "東京都 / 関東",
+    "officialUrl": "https://www.tmu.ac.jp/",
+    "resultUrl": "https://www.tmu.ac.jp/entrance/faculty/outline.html",
+    "policyUrl": "https://www.tmu.ac.jp/",
+    "parser": "tmu",
+    "format": "pdf",
+    "type": "公立大学",
+    "defaultTab": "total",
+    "note": "2026年度の一般選抜の合格点・満点・人数を収録。合格者10名以下の最高点・最低点は非公表。共通テストと個別試験の内訳、2024・2025年度は未収録。",
+    "documents": {
+      "2026": {
+        "scores": "https://www.tmu.ac.jp/assets/files/download/entrance/guide/2026/2026_entrance_examination_implementation_status.pdf"
+      }
+    }
+  },
+  {
+    "id": "fukushima",
+    "name": "福島大学",
+    "kana": "ふくしまだいがく",
+    "short": "福大",
+    "region": "福島県 / 東北",
+    "officialUrl": "https://nyushi.adb.fukushima-u.ac.jp/",
+    "resultUrl": "https://nyushi.adb.fukushima-u.ac.jp/",
+    "policyUrl": "https://nyushi.adb.fukushima-u.ac.jp/",
+    "parser": "fukushima",
+    "format": "pdf",
+    "type": "国立大学",
+    "defaultTab": "total",
+    "note": "2025年度は人間発達文化学類前期、2026年度は公式統計で確認できた一般選抜の総合最低点。最高点・平均点は未収録。学類一括公表値をコース別に配分しません。",
+    "documents": {
+      "2025": {
+        "scores": "https://nyushi.adb.fukushima-u.ac.jp/announcing/Files/2025/03/R7_N_zenki_goukaku.pdf"
+      },
+      "2026": {
+        "scores": "https://nyushi.adb.fukushima-u.ac.jp/situation/Files/2026/04/d477428bf8858f013ccc8e4203cb9aae.pdf"
+      }
+    },
+    "parserByYear": {
+      "2026": "fukushima2026"
+    }
+  },
+  {
+    "id": "toyaku",
+    "name": "東京薬科大学",
+    "kana": "とうきょうやっかだいがく",
+    "short": "東薬",
+    "region": "東京都 / 関東",
+    "officialUrl": "https://www.toyaku.ac.jp/",
+    "resultUrl": "https://www.toyaku.ac.jp/examinee/admissions/data/result-lifescience/",
+    "policyUrl": "https://www.toyaku.ac.jp/",
+    "parser": "toyaku",
+    "format": "html",
+    "type": "私立大学",
+    "defaultTab": "common",
+    "note": "2026年度生命科学部の一般選抜を収録。A方式は共通テスト利用、B・T・C方式は個別試験。B・T方式は得点補正あり。薬学部・他年度は未収録。",
+    "documents": {
+      "2026": {
+        "scores": "https://www.toyaku.ac.jp/examinee/admissions/data/result-lifescience/",
+        "guide": "https://www.toyaku.ac.jp/pdf/RecruitmentRequirements_2026.pdf"
+      }
+    },
+    "formatByKey": {
+      "guide": "pdf"
+    }
+  },
+  {
+    "id": "iwate",
+    "name": "岩手大学",
+    "kana": "いわてだいがく",
+    "short": "岩大",
+    "region": "岩手県 / 東北",
+    "officialUrl": "https://www.iwate-u.ac.jp/",
+    "resultUrl": "https://www.iwate-u.ac.jp/",
+    "policyUrl": "https://www.iwate-u.ac.jp/",
+    "format": "pdf",
+    "type": "国立大学",
+    "defaultTab": "total",
+    "parser": "iwate",
+    "note": "一般選抜の総合点。最高・最低・平均は第1志望合格者のみ。第1志望合格者5名以下は非開示。",
+    "documents": {
+      "2024": {
+        "scores": "https://www.iwate-u.ac.jp/upload/R6saikousaiteiheikinn.pdf"
+      },
+      "2025": {
+        "scores": "https://www.iwate-u.ac.jp/upload/R7saikousaiteiheikinntenn.pdf"
+      },
+      "2026": {
+        "scores": "https://www.iwate-u.ac.jp/upload/R8-3.saikouten_saiteiten_heikinten.pdf"
+      }
+    }
+  },
+  {
+    "id": "yamagata",
+    "name": "山形大学",
+    "kana": "やまがただいがく",
+    "short": "山大",
+    "region": "山形県 / 東北",
+    "officialUrl": "https://www.yamagata-u.ac.jp/",
+    "resultUrl": "https://www.yamagata-u.ac.jp/",
+    "policyUrl": "https://www.yamagata-u.ac.jp/",
+    "format": "pdf",
+    "type": "国立大学",
+    "defaultTab": "total",
+    "parser": "yamagata",
+    "note": "2024〜2026年度の一般選抜総合点。合格者10人以下の区分は非公表。学部改組やコース名称変更は年度別に保持。",
+    "documents": {
+      "2024": {
+        "scores": "https://www.yamagata-u.ac.jp/jp/files/1817/1522/8867/R6ave.pdf"
+      },
+      "2025": {
+        "scores": "https://www.yamagata-u.ac.jp/jp/files/4117/4607/2751/R7ave.pdf"
+      },
+      "2026": {
+        "scores": "https://www.yamagata-u.ac.jp/jp/files/1017/7734/9096/R8ave.pdf"
+      }
+    }
+  },
+  {
+    "id": "obihiro",
+    "name": "帯広畜産大学",
+    "kana": "おびひろちくさんだいがく",
+    "short": "帯畜大",
+    "region": "北海道",
+    "officialUrl": "https://www.obihiro.ac.jp/",
+    "resultUrl": "https://www.obihiro.ac.jp/",
+    "policyUrl": "https://www.obihiro.ac.jp/",
+    "format": "pdf",
+    "type": "国立大学",
+    "defaultTab": "total",
+    "parser": "obihiro",
+    "note": "2024〜2026年度一般選抜の総合点。最低点・平均点には追加合格者を含みません。2025年度に配点変更あり。",
+    "documents": {
+      "2024": {
+        "scores": "https://www.obihiro.ac.jp/wp/wp-content/uploads/2026/04/R8goukakusyaseiseki5.pdf"
+      },
+      "2025": {
+        "scores": "https://www.obihiro.ac.jp/wp/wp-content/uploads/2026/04/R8goukakusyaseiseki5.pdf"
+      },
+      "2026": {
+        "scores": "https://www.obihiro.ac.jp/wp/wp-content/uploads/2026/04/R8goukakusyaseiseki5.pdf"
+      }
+    }
+  },
+  {
+    "id": "utsunomiya",
+    "name": "宇都宮大学",
+    "kana": "うつのみやだいがく",
+    "short": "宇大",
+    "region": "栃木県 / 関東",
+    "officialUrl": "https://admission.utsunomiya-u.ac.jp/",
+    "resultUrl": "https://admission.utsunomiya-u.ac.jp/",
+    "policyUrl": "https://admission.utsunomiya-u.ac.jp/",
+    "format": "pdf",
+    "type": "国立大学",
+    "defaultTab": "common",
+    "parser": "utsunomiya",
+    "note": "2027年度向け募集要項の2026年度一般選抜成績。共通テスト・個別試験別の配点・最高点・平均点。合格者10人未満は非公表。2024・2025年度は未収録。",
+    "documents": {
+      "2026": {
+        "scores": "https://admission.utsunomiya-u.ac.jp/docs/R9_ippansenbatsu2.pdf"
+      }
+    }
+  },
+  {
+    "id": "tohoku",
+    "name": "東北大学",
+    "kana": "とうほくだいがく",
+    "short": "東北大",
+    "region": "宮城県 / 東北",
+    "officialUrl": "https://www.tnc.tohoku.ac.jp/",
+    "resultUrl": "https://www.tnc.tohoku.ac.jp/",
+    "policyUrl": "https://www.tnc.tohoku.ac.jp/",
+    "format": "pdf",
+    "type": "国立大学",
+    "defaultTab": "total",
+    "parser": "tohoku",
+    "note": "理学部・工学部・農学部の募集要項の満点・配点のみ収録。合格者最高点・最低点・平均点は未確認。学部一括配点であり学科・系別成績ではありません。",
+    "documents": {
+      "2024": {
+        "scores": "https://web-pamphlet.jp/tohoku/2024b1/book.pdf"
+      },
+      "2025": {
+        "scores": "https://www.tnc.tohoku.ac.jp/images/yoko/2025_ippan.pdf"
+      },
+      "2026": {
+        "scores": "https://www.tnc.tohoku.ac.jp/images/yoko/2026_ippan.pdf"
+      }
+    },
+    "allowedHosts": [
+      "www.tnc.tohoku.ac.jp",
+      "web-pamphlet.jp"
+    ]
+  },
+  {
+    "id": "akita",
+    "name": "秋田大学",
+    "kana": "あきただいがく",
+    "short": "秋大",
+    "region": "秋田県 / 東北",
+    "officialUrl": "https://www.akita-u.ac.jp/",
+    "resultUrl": "https://www.akita-u.ac.jp/",
+    "policyUrl": "https://www.akita-u.ac.jp/",
+    "format": "pdf",
+    "type": "国立大学",
+    "defaultTab": "total",
+    "parser": "akita",
+    "note": "2024〜2026年度の原本画像と照合した一部募集単位。総合点・傾斜配点後共通テスト・個別試験を区別。学部改組・方式別配点変更に注意。",
+    "documents": {
+      "2024": {
+        "scores": "https://www.akita-u.ac.jp/honbu/exam/date/r6block_03.pdf"
+      },
+      "2025": {
+        "scores": "https://www.akita-u.ac.jp/honbu/exam/date/r7block_03.pdf"
+      },
+      "2026": {
+        "scores": "https://www.akita-u.ac.jp/honbu/exam/date/r8block_03.pdf"
+      }
+    }
+  },
+  {
+    "id": "chiba",
+    "name": "千葉大学",
+    "kana": "ちばだいがく",
+    "short": "千葉大",
+    "region": "千葉県 / 関東",
+    "officialUrl": "https://www.n.chiba-u.jp/",
+    "resultUrl": "https://www.n.chiba-u.jp/",
+    "policyUrl": "https://www.n.chiba-u.jp/",
+    "format": "html",
+    "type": "国立大学",
+    "defaultTab": "total",
+    "parser": "chiba",
+    "note": "2026年度看護学部・前期の総合点と内訳満点のみ照合済み。2024・2025年度の全学公式得点PDFは取得失敗（確認待ち）。未公表とは区別しています。",
+    "documents": {
+      "2026": {
+        "scores": "https://www.n.chiba-u.jp/admission/undergraduate/opencampus/oc-1.html"
+      }
+    }
+  }
 ]

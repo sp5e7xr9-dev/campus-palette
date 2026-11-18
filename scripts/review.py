@@ -6,8 +6,14 @@ from core import ROOT,validate
 def digest(record,sources):
  # Retrieval times must not invalidate a byte-identical official PDF.
  evidence={k:{'value':v['value'],'status':v['status'],'source':v.get('source'),'kind':v.get('kind'),'reason':v.get('reason')} for section in ['common','individual','total','admissions'] for k,v in [(section+'.'+key,m) for key,m in record[section].items()]}
+ for section in ['common','individual','total','admissions']:
+  for key,m in record[section].items():
+   for field in ['note','basis','contextSource']:
+    if field in m:evidence[section+'.'+key][field]=m[field]
  used={m.get('source') for s in ['common','individual','total','admissions'] for m in record[s].values() if m.get('source')}
+ used.update(m['contextSource'] for s in ['common','individual','total','admissions'] for m in record[s].values() if m.get('contextSource'))
  payload={'identity':{k:record[k] for k in ['id','university','faculty','department','selection','year']},'cells':evidence,'documents':{sid:sources[sid]['sha256'] for sid in sorted(used)}}
+ if 'note' in record:payload['note']=record['note']
  return hashlib.sha256(json.dumps(payload,sort_keys=True,ensure_ascii=False).encode()).hexdigest()
 
 def export(candidate,approvals):
@@ -29,6 +35,7 @@ def export(candidate,approvals):
    for section in ['common','individual','total','admissions']:
     for m in r[section].values():
      if m.get('source'):sources[m['source']].update(status='verified',verifiedAt=a['at'],reviewer=a['reviewer'])
+     if m.get('contextSource'):sources[m['contextSource']].update(status='verified',verifiedAt=a['at'],reviewer=a['reviewer'])
  validate(d,public=True);return d
 if __name__=='__main__':
  p=argparse.ArgumentParser();p.add_argument('command',choices=['list','show','approve','export']);p.add_argument('--candidate',type=str,default=str(ROOT/'.cache/candidate.json'));p.add_argument('--approvals',default=str(ROOT/'scripts/approvals.json'));p.add_argument('--id');p.add_argument('--digest');p.add_argument('--reviewer');p.add_argument('--out',default=str(ROOT/'public/data/admissions.json'));a=p.parse_args()
@@ -38,7 +45,8 @@ if __name__=='__main__':
   for r in d['records']:print(r['id'],r['year'],r['faculty'],r['department'],r['selection'],digest(r,ss))
  elif a.command=='show':
   r=next(r for r in d['records'] if r['id']==a.id);print(json.dumps(r,ensure_ascii=False,indent=2));print('digest:',digest(r,ss))
-  for sid in sorted({m['source'] for k in ['common','individual','total','admissions'] for m in r[k].values() if m.get('source')}):print(ss[sid]['url']+'#page='+str(ss[sid]['page']),ss[sid]['sha256'])
+  used={m[field] for k in ['common','individual','total','admissions'] for m in r[k].values() for field in ['source','contextSource'] if m.get(field)}
+  for sid in sorted(used):print(ss[sid]['url']+('' if ss[sid].get('format')=='html' else '#page='+str(ss[sid]['page'])),ss[sid]['sha256'])
  elif a.command=='approve':
   if not a.id or not a.digest or not a.reviewer:p.error('--id, --digest and --reviewer are required after reviewing original PDF')
   r=next(r for r in d['records'] if r['id']==a.id)
