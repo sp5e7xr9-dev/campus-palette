@@ -4,7 +4,7 @@ on:
     branches: [main]
   workflow_dispatch:
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
 concurrency:
@@ -16,17 +16,6 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
-      - name: Import verified source package on first publication
-        if: ${{ hashFiles('package.json') == '' }}
-        run: |
-          unzip -q Campus-Palette.zip -d "$RUNNER_TEMP/campus-import"
-          rm -rf "$RUNNER_TEMP/campus-import/campus-palette/.github" "$RUNNER_TEMP/campus-import/campus-palette/dist"
-          cp -a "$RUNNER_TEMP/campus-import/campus-palette/." .
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add src public scripts tests docs package.json pnpm-lock.yaml pnpm-workspace.yaml requirements.txt tsconfig.json vite.config.ts index.html .gitignore README.md '*.command'
-          git commit -m "Import verified Campus Palette application source"
-          git push origin HEAD:main
       - uses: actions/setup-node@v4
         with:
           node-version: 22
