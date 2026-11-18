@@ -1,0 +1,57 @@
+name: Test and publish free GitHub Pages
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: true
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Import verified source package on first publication
+        if: ${{ hashFiles('package.json') == '' }}
+        run: |
+          unzip -q Campus-Palette.zip -d "$RUNNER_TEMP/campus-import"
+          rm -rf "$RUNNER_TEMP/campus-import/campus-palette/.github" "$RUNNER_TEMP/campus-import/campus-palette/dist"
+          cp -a "$RUNNER_TEMP/campus-import/campus-palette/." .
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src public scripts tests docs package.json pnpm-lock.yaml pnpm-workspace.yaml requirements.txt tsconfig.json vite.config.ts index.html .gitignore README.md '*.command'
+          git commit -m "Import verified Campus Palette application source"
+          git push origin HEAD:main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 11.25.0
+          run_install: false
+      - run: pnpm install --frozen-lockfile --ignore-scripts
+      - run: pnpm test && pnpm build
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m unittest discover -s tests -p 'test_*.py' -v
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
