@@ -2,10 +2,10 @@ import pdfplumber
 from core import clean,num,make_record,put,metric
 
 def parse(paths,year,source):
- assert year==2026
+ assert year in [2024,2025,2026]
  records=[];sid=source('scores',1)
  with pdfplumber.open(paths['scores']) as doc:
-  text=clean(doc.pages[0].extract_text());assert '2026年度入学試験実施状況' in text and '合格平均点' in text
+  text=clean(doc.pages[0].extract_text());assert f'{year}年度入学試験実施状況' in text and '合格平均点' in text
   tables=doc.pages[0].extract_tables();assert len(tables)==2
   for table,schedule in zip(tables,['前期','後期']):
    assert len(table[0])==11;faculty=''

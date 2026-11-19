@@ -1,5 +1,7 @@
 import pdfplumber
-from core import clean,num,make_record,put
+import hashlib,json
+from pathlib import Path
+from core import clean,num,make_record,put,metric
 
 def parse(paths,year,source):
  records=[]
@@ -20,4 +22,19 @@ def parse(paths,year,source):
      put(r['total'],'full',num(row[-1]),sid);records.append(r)
     value=num(row[-2]);assert value is not None;put(r[section],'full',value,sid)
  assert len(records)==4
+ if 'results' in paths:
+  reviewed=json.loads(Path(__file__).with_name('tohoku_reviewed.json').read_text())[str(year)]
+  assert hashlib.sha256(paths['results'].read_bytes()).hexdigest()==reviewed['sha256'],'University guide changed; review original table again'
+  sid=source('results',reviewed['page'])
+  for r in records:
+   key=r['faculty']+('後期' if r['selection'].endswith('後期') else '')
+   values=reviewed['values'][key]
+   r['department']='学部一括公表（学科・系別の成績ではない）'
+   r['id']=make_record('tohoku',r['faculty'],r['department'],r['selection'],year)['id']
+   r['note']='大学案内の合格者平均点と本学傾斜配点。学部一括の公表で学科・系別成績ではありません。2024年度と2025年度以降で配点体系が異なります。最高・最低点は当該結果表にありません。'
+   for offset,section in [(0,'common'),(2,'individual'),(4,'total')]:
+    assert r[section]['full']['value']==values[offset+1],(year,key,section)
+    r[section]['full']=metric(values[offset+1],sid)
+    put(r[section],'average',values[offset],sid)
+    for k in ['minimum','maximum']:r[section][k]=metric(None,sid,'当該大学案内の結果表は平均点のみ掲載しています。',status='unavailable')
  return records
