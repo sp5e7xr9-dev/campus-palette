@@ -5,7 +5,7 @@ export type RecordData = {id:string;university:string;faculty:string;department:
 export type Source = {id:string;university:string;title:string;url:string;page:number;retrievedAt:string;sha256:string;status:string;verifiedAt?:string;reviewer?:string;format?:'pdf'|'html'};
 export type University = {id:string;name:string;kana:string;short:string;region:string;officialUrl:string;resultUrl:string;note:string;type?:string;defaultTab?:'common'|'total'|'individual'};
 export type Dataset = {version:number;updatedAt:string;universities:University[];sources:Source[];records:RecordData[];coverageNote:string};
-export const years = [2024,2025,2026];
+export const years = [2026,2025,2024];
 export const missing:Metric = {value:null,status:'not_collected',reason:'公式資料との照合が完了していません。'};
 export function number(m?:Metric):number|null {return m?.status==='verified' && typeof m.value==='number' && Number.isFinite(m.value) ? m.value:null;}
 export function rate(group:Group):number|null {const a=number(group.average),b=number(group.full);return a!==null&&b!==null&&b>0?a/b*100:null;}
