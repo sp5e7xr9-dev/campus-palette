@@ -42,20 +42,31 @@ class OfficialDataTests(unittest.TestCase):
   allowed={u['id']:u.get('allowedHosts',[urlparse(u['officialUrl']).hostname]) for u in config}
   for s in DATA['sources']:
    self.assertIn(urlparse(s['url']).hostname,allowed[s['university']]);self.assertEqual(len(s['sha256']),64)
- def test_tohoku_is_faculty_level_weights_only(self):
+ def test_tohoku_faculty_averages_keep_weighted_basis_and_year(self):
   rs=[r for r in DATA['records'] if r['university']=='tohoku'];self.assertEqual(len(rs),12)
   for r in rs:
-   self.assertIn('学部一括配点',r['department'])
+   self.assertIn('学部一括公表',r['department'])
    for section in ['common','individual','total']:
-    self.assertIsNone(r[section]['average']['value']);self.assertIsNone(r[section]['minimum']['value'])
+    self.assertIsNotNone(r[section]['average']['value']);self.assertIsNone(r[section]['minimum']['value']);self.assertIsNone(r[section]['maximum']['value'])
   r=next(r for r in rs if r['year']==2024 and r['faculty']=='理学部' and r['selection']=='一般選抜前期');self.assertEqual(r['total']['full']['value'],1250)
   r=next(r for r in rs if r['year']==2026 and r['faculty']=='理学部' and r['selection']=='一般選抜前期');self.assertEqual(r['total']['full']['value'],2350)
  def test_utsunomiya_book_year_is_not_admission_year(self):
-  rs=[r for r in DATA['records'] if r['university']=='utsunomiya'];self.assertEqual(len(rs),24)
+  rs=[r for r in DATA['records'] if r['university']=='utsunomiya' and r['year']==2026];self.assertEqual(len(rs),24)
   r=next(r for r in rs if r['faculty']=='データサイエンス経営学部' and r['selection']=='一般選抜前期')
   self.assertEqual(r['year'],2026);self.assertEqual(r['common']['average']['value'],670.7);self.assertEqual(r['individual']['average']['value'],264.1)
   r=next(r for r in rs if r['faculty']=='データサイエンス経営学部' and r['selection']=='一般選抜後期')
   self.assertIsNone(r['common']['average']['value']);self.assertEqual(r['common']['average']['status'],'unavailable')
+ def test_rechecked_historical_values_and_reorganizations(self):
+  for y,average,full in [(2024,917.72,1260),(2025,1000.78,1310)]:
+   r=find('tmu',y,'人文社会学部','人間社会学科');self.assertEqual(r['total']['average']['value'],average);self.assertEqual(r['total']['full']['value'],full)
+  for y,average,full in [(2024,610.9,900),(2025,687.6,1000)]:
+   r=find('utsunomiya',y,'データサイエンス経営学部','データサイエンス経営学科');self.assertEqual(r['common']['average']['value'],average);self.assertEqual(r['common']['full']['value'],full)
+  self.assertFalse(any(r['university']=='utsunomiya' and r['year']==2024 and r['department']=='森林科学科' and r['selection']=='一般選抜後期' for r in DATA['records']))
+  self.assertTrue(any(r['university']=='utsunomiya' and r['year']==2025 and r['department']=='森林科学科' and r['selection']=='一般選抜後期' for r in DATA['records']))
+  for y,avg in [(2024,827.57),(2025,1647.29),(2026,1608.74)]:
+   r=next(r for r in DATA['records'] if r['university']=='tohoku' and r['year']==y and r['faculty']=='理学部' and r['selection']=='一般選抜前期')
+   self.assertEqual(r['total']['average']['value'],avg)
+  r=find('toyaku',2024,'生命科学部','分子生命科学科','一般選抜A方式I期');self.assertEqual(r['common']['average']['value'],420);self.assertIsNone(r['individual']['average']['value']);self.assertEqual(r['admissions']['accepted']['value'],78)
  def test_obihiro_changed_weights(self):
   for year,full in [(2024,1050),(2025,1110),(2026,1110)]:
    self.assertEqual(find('obihiro',year,'畜産学部','共同獣医学課程')['total']['full']['value'],full)
